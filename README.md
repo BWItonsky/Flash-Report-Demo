@@ -1,6 +1,15 @@
 # Revenue Insight — Flash Report & Account Intelligence (Interactive Demo)
 
+> **Live Deployment:** [https://ri-flash-report-demo.vercel.app](https://ri-flash-report-demo.vercel.app)  
+> **Executive Flash Report:** [https://ri-flash-report-demo.vercel.app/flash-report/](https://ri-flash-report-demo.vercel.app/flash-report/)
+
 This is an interactive public demo edition of the **Flash Report & Account Intelligence** system developed for B2B sales and executive intelligence.
+
+## Live Links
+
+- **Platform Index & Account Directory**: [https://ri-flash-report-demo.vercel.app/](https://ri-flash-report-demo.vercel.app/)
+- **Executive Flash Report**: [https://ri-flash-report-demo.vercel.app/flash-report/](https://ri-flash-report-demo.vercel.app/flash-report/)
+- **Interactive Brief Example**: [https://ri-flash-report-demo.vercel.app/brief/velocity-mobility-systems.html](https://ri-flash-report-demo.vercel.app/brief/velocity-mobility-systems.html)
 
 ## Overview
 
@@ -29,24 +38,6 @@ python3 -m http.server 8000 --directory public
 
 Then visit `http://localhost:8000/flash-report/` or `http://localhost:8000/`.
 
-## Deploying to Vercel
+## Deployment
 
-```bash
-vercel deploy --prod
-```
-
-## Pushing to Your Own GitHub Account
-
-To host this codebase under your personal GitHub account:
-
-```bash
-# 1. In this folder:
-git init
-git add .
-git commit -m "Initial commit: RevenueInsight Flash Report & Account Intelligence Demo"
-
-# 2. Link your remote and push:
-git branch -M main
-git remote add origin https://github.com/BWItonsky/<your-repo-name>.git
-git push -u origin main
-```
+This repository is connected directly to Vercel. Pushing changes to the `main` branch automatically builds and deploys to [https://ri-flash-report-demo.vercel.app](https://ri-flash-report-demo.vercel.app).

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-10-16",
   "nodes": [
     {
       "id": "DEMO-P01",
@@ -1711,116 +1711,221 @@
       "account_count": 18
     },
     {
-      "id": "event:https-www-sec-gov-archives-edgar-data-101829-000114036126036662-ef20082011-8k-htm",
+      "id": "event:https-www-linkedin-com-posts-yoshikazu-iida-5b242310-today-marks-the-beginning-of-a-new-chapter-activity-7511492680439328769-hjrw",
       "type": "event",
-      "label": "Executive leadership succession at Pratt & Whitney announced",
+      "label": "Manager of Relocation, 2nd Source and Obsolescence Management appointed",
       "kind": "People movement",
-      "summary": "In an SEC Form 8-K filing, RTX announced that Shane Eddy will step down as president of Pratt & Whitney on January 1, 2027, with Jill Albertelli, current president of Military Engines, named to succeed him as president."
+      "summary": "Yoshikazu Iida joined Sovereign Power Power Systems (mtu) as Manager of Relocation, 2nd Source and Obsolescence Management, bringing 25 years of procurement and supplier development experience to lead dual-sourcing and supply chain resilience initiatives."
     },
     {
-      "id": "event:https-www-defense-gov-news-contracts-contract-article-3901412",
+      "id": "event:https-linkedin-com-in-parishirschberg",
       "type": "event",
-      "label": "CIRCM full-rate production contract awarded",
-      "kind": "Relevant news",
-      "summary": "The U.S. Army awarded Orbit Space Technologies a nine-year, $4.8 billion contract for full-rate production of the Common Infrared Countermeasures (CIRCM) system to protect military helicopters."
+      "label": "Director of Purchasing and Supply Chain leadership at Advanced Alloy Technologies",
+      "kind": "People movement",
+      "summary": "Paris Hirschberg is serving as Director of Purchasing and Supply Chain at Advanced Alloy Technologies, leading strategic sourcing, SIOP planning, and supplier strategy supporting capacity expansion across specialty materials manufacturing."
     },
     {
-      "id": "event:https-www-railwaygazette-com-traction-and-rolling-stock-velocity mobility systems-to-supply-battery-electric-trains-for-transpennine-express",
+      "id": "event:https-linkedin-com-in-timothy-hatton-620156144",
       "type": "event",
-      "label": "TransPennine Express battery-electric train contract awarded",
-      "kind": "Relevant news",
-      "summary": "Velocity Mobility Systems secured a \u20ac1.2 billion contract with TransPennine Express to supply and maintain 29 battery-electric trains manufactured at Velocity Mobility Systems's Derby Litchurch Lane facility, supporting over 350 skilled manufacturing jobs."
+      "label": "Director of Global Supply Chain leadership in Indianapolis",
+      "kind": "People movement",
+      "summary": "Timothy Hatton is serving as Director of Global Supply Chain at Meridian Propulsion Solutions in Indianapolis, Indiana, overseeing procurement, inventory management, and lean manufacturing supply operations for commercial and defense propulsion programs."
     },
     {
-      "id": "event:https-www-defense-gov-news-contracts-contract-article-3905103",
+      "id": "event:https-www-sec-gov-archives-edgar-data-40533-000119312526417188-d122892d8k-htm",
       "type": "event",
-      "label": "Armored Multi-Purpose Vehicle (AMPV) contract modification",
-      "kind": "Relevant news",
-      "summary": "Sentinel Defense Technologies was awarded an $818.4 million contract modification for Armored Multi-Purpose Vehicles (AMPV), with manufacturing and assembly work in York, Pennsylvania through May 2030."
+      "label": "Aegis Dynamics elects former Aegis Dynamics president Danny Deep as CEO",
+      "kind": "People movement",
+      "summary": "In an SEC Form 8-K filing, Aegis Dynamics Corporation announced that its board of directors elected Danny Deep as Chief Executive Officer effective January 1, 2027, succeeding Phebe N. Novakovic as she transitions to Executive Chairman. Deep previously served as President of Aegis Ground Dynamics (2020-2024) and Executive Vice President of Combat Systems (2024-2025)."
     },
     {
-      "id": "event:https-www-marketbeat-com-stocks-nyse-cat-news-titan industrial equipment-powers-ahead-with-turbine-capacity-additions",
+      "id": "event:https-linkedin-com-in-david-wilson-1225a734",
       "type": "event",
-      "label": "Helios Turbine Systems packaging capacity and Broken Arrow facility ramp",
-      "kind": "Relevant news",
-      "summary": "Titan Industrial Equipment reported turbine capacity additions on schedule to meet surge data center demand, repurposing its Wamego facility and advancing a $32 million expansion at Helios Turbine Systems in Broken Arrow, Oklahoma."
+      "label": "Vice President of Global Supply Chain leadership at Stratos Rotorcraft Technologies",
+      "kind": "People movement",
+      "summary": "David Wilson serves as Vice President of Global Supply Chain at Stratos Rotorcraft Technologies in Stratford, Connecticut, directing aerostructure, avionics, and dynamic component procurement across military and commercial rotary-wing programs."
     },
     {
-      "id": "event:https-www-pinnacle engine-com-news-releases-2026-09-14-pinnacle engine-expands-battery-manufacturing-in-europe",
+      "id": "event:https-www-themuse-com-jobs-pinnacle engine-procurement-and-supply-continuity-specialist-senior-bcbb69",
       "type": "event",
-      "label": "European commercial vehicle battery manufacturing expansion",
-      "kind": "Relevant news",
-      "summary": "At IAA Transportation 2026, Pinnacle Engine and Accelera announced plans to expand European manufacturing for its Advanced LFP battery platform at a facility in Spain to supply heavy-duty commercial truck and bus fleets."
+      "label": "Senior Procurement and Supply Continuity Specialist hiring in Columbus",
+      "kind": "Relevant hiring",
+      "summary": "Pinnacle Engine is recruiting a Senior Procurement and Supply Continuity Specialist in Columbus, Indiana, to manage vendor performance, supply risk mitigation, and purchasing continuity across engine and power systems manufacturing."
     },
     {
-      "id": "event:https-www-defense-gov-news-contracts-contract-article-3905102",
+      "id": "event:https-generaldynamics-us-careers-ttcportals-com-jobs-18355499-buyers-slash-procurement-slash-supply-chain-professionals",
       "type": "event",
-      "label": "PrSM Increment 2 early operational capability contract awarded",
-      "kind": "Relevant news",
-      "summary": "The U.S. Army awarded Vanguard Systems a $1.2 billion contract for the early operational capability of the Precision Strike Missile (PrSM) Increment 2 system, featuring a multi-mode seeker to engage maritime and time-sensitive targets through September 2031."
+      "label": "Buyers and supply chain procurement hiring push in Sterling Heights",
+      "kind": "Relevant hiring",
+      "summary": "Aegis Ground Dynamics opened multiple Buyer and Supply Chain Procurement roles in Sterling Heights, Michigan, to manage end-to-end competitive sourcing, RFP negotiations, and subcontract execution across combat vehicle programs."
     },
     {
-      "id": "event:https-www-janes-com-defence-news-news-detail-south-korea-selects-mh-60r-for-moh-ii",
+      "id": "event:https-globalhr-wd5-myworkdayjobs-com-en-us-rec-rtx-ext-gateway-job-principal-specialist-material-program-manager-01867072",
       "type": "event",
-      "label": "South Korea MH-60R Seahawk maritime helicopter selection",
-      "kind": "Relevant news",
-      "summary": "South Korea's DAPA formally selected Stratos Rotorcraft Technologies's MH-60R Seahawk for its $2.39 billion Maritime Operational Helicopter-II program, replacing its legacy Lynx fleet through 2032."
+      "label": "Naval Power Principal Material Program Manager recruitment",
+      "kind": "Relevant hiring",
+      "summary": "Horizon Aerospace & Defense is recruiting a Principal Specialist, Material Program Manager within its Naval Power strategic business unit to manage supplier execution and material readiness for naval radar production."
     },
     {
-      "id": "event:https-news-bellflight-com-en-us-2026-09-16-valor flight technologies-marks-start-of-nigeria-ah-1z-production-at-amarillo-center",
+      "id": "event:https-jobs-orion transit-com-en-us-externaljobs-jobdetail-525767",
       "type": "event",
-      "label": "Nigeria AH-1Z Viper production launch in Amarillo",
-      "kind": "Relevant news",
-      "summary": "Valor Flight Technologies Textron hosted the Nigerian Air Force at its Amarillo Assembly Center in Texas to mark the formal start of assembly on 12 AH-1Z Viper attack helicopters under a foreign military sales contract running through 2029."
+      "label": "Electrical and mechanical enclosures Procurement Manager hiring",
+      "kind": "Relevant hiring",
+      "summary": "Orion Transit Dynamics opened recruitment for a Procurement Manager specializing in electrical and mechanical cabinet enclosures, responsible for strategic sourcing, supplier qualification, and manufacturing supply chain management."
     },
     {
-      "id": "event:https-www-aegis dynamics-com-news-sterling-heights-modernization-ribbon-cutting-2026",
+      "id": "event:https-apex motion-wd5-myworkdayjobs-com-en-us-apex motion-job-director-sourcing-jr113636",
       "type": "event",
-      "label": "Sterling Heights modernized headquarters ribbon-cutting",
-      "kind": "Relevant news",
-      "summary": "Aegis Ground Dynamics celebrated the ribbon-cutting of its multiyear, multimillion-dollar modernized headquarters in Sterling Heights, Michigan, supporting nearly 2,000 employees and ground-combat vehicle programs."
+      "label": "Director of Sourcing and Aerospace Supplier Development Engineer recruitment",
+      "kind": "Relevant hiring",
+      "summary": "Apex Motion opened hiring for a Director of Sourcing and a Senior Manager of Sourcing to lead enterprise category strategies, supplier qualification, and supply chain integration across aerospace and industrial manufacturing segments."
     },
     {
-      "id": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-propulsion-innovation-center-elkton",
+      "id": "event:https-cat-wd5-myworkdayjobs-com-en-us-caterpillarcareers-job-program-manager-new-source-introduction-sanford-advanced-manufacturing-r0000397830",
       "type": "event",
-      "label": "Elkton propulsion innovation center opened",
-      "kind": "Relevant news",
-      "summary": "Orbit Space Technologies opened a 57,000-square-foot Propulsion Innovation Center in Elkton, Maryland housing 250 engineers, representing part of a $100 million investment to increase solid rocket motor production capacity."
+      "label": "Sanford greenfield smart manufacturing program and new source introduction hiring",
+      "kind": "Relevant hiring",
+      "summary": "Titan Industrial Equipment is recruiting a Senior Program Manager and a New Source Introduction Program Manager for its new Sanford, North Carolina advanced manufacturing campus, leading procurement, supplier onboarding, and automated production workstreams."
     },
     {
-      "id": "event:https-www-vector tactical communications-com-newsroom-press-release-2026-09-vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production",
+      "id": "event:https-zenith transit-wd1-myworkdayjobs-com-en-us-zenith transit-job-category-manager-direct-procurement-r0136967",
       "type": "event",
-      "label": "PAC-3 MSE rocket motor production award",
-      "kind": "Relevant news",
-      "summary": "Vector Tactical Communications announced an undefinitized contract award from Vanguard Systems valued at up to $4.7 billion over seven years for mass production of propulsion systems for PAC-3 MSE interceptors, expanding rocket motor production capacity at Stellar Propulsion Dynamics facilities in Camden, Arkansas."
+      "label": "Direct Procurement Category Manager recruitment in Hagerstown",
+      "kind": "Relevant hiring",
+      "summary": "Zenith Transit Systems opened hiring for a Direct Procurement Category Manager at its Hagerstown, Maryland railcar manufacturing facility to lead strategic sourcing and supplier performance across North American transit vehicle programs."
     },
     {
-      "id": "event:https-www-defense-gov-news-contracts-contract-article-3900344",
+      "id": "event:https-yabot-jobs-jobs-us-operations-manufacturing-2026-10-08-lead-subcontracts-supply-chain-program-manager-camden-nj-ca8ae684-3ecf-4607-b2fe-bf5fb1d96f42",
       "type": "event",
-      "label": "JASSM and LRASM large lot production modification",
-      "kind": "Relevant news",
-      "summary": "Vanguard Precision Systems was awarded an $825.98 million modification for Large Lot procurement of JASSM and LRASM missiles, with manufacturing work in Orlando, Florida through July 2030."
+      "label": "Maritime Power Systems Lead Subcontracts Manager hiring in Camden",
+      "kind": "Relevant hiring",
+      "summary": "Vector Tactical Communications is hiring a Lead Subcontracts Supply Chain Program Manager in Camden, New Jersey, serving as single supply chain owner for material cost, schedule, and subcontractor execution across Maritime Power Systems programs."
     },
     {
-      "id": "event:https-www-defense-gov-news-contracts-contract-article-3900346",
+      "id": "event:https-emploive-com-jobs-7491603-procurement-specialist-solar-turbines",
       "type": "event",
-      "label": "Mk 45 Mod 4 naval gun overhaul contract awarded",
-      "kind": "Relevant news",
-      "summary": "The U.S. Navy awarded Sentinel Defense Technologies a $38.2 million contract modification for the overhaul of two Mk 45 Mod 4 naval gun systems, with work performed in Louisville, Kentucky through March 2028."
+      "label": "Forgings supply chain procurement specialist recruitment",
+      "kind": "Relevant hiring",
+      "summary": "Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production."
     },
     {
-      "id": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-east-gate-3-facility-layton-utah-b21",
+      "id": "event:https-ngc-wd1-myworkdayjobs-com-en-us-northrop-grumman-external-site-job-manager-supply-chain-1-r10254718",
       "type": "event",
-      "label": "B-21 Raider East Gate 3 manufacturing facility opened",
-      "kind": "Relevant news",
-      "summary": "Orbit Space Technologies officially opened its 845,000-square-foot East Gate 3 manufacturing facility in Layton, Utah to accelerate production and flight-testing of the B-21 Raider stealth bomber, supporting up to 1,500 advanced aerospace jobs by 2032."
+      "label": "Global Supply Chain Manager recruitment at Iuka Center of Excellence",
+      "kind": "Relevant hiring",
+      "summary": "Orbit Space Technologies Aeronautics Systems opened hiring for a Manager of Global Supply Chain at its Iuka Center of Excellence in Iuka, Mississippi, overseeing procurement-to-delivery execution across aerospace structures programs."
     },
     {
-      "id": "event:https-defence-industry-eu-xm30-prototype-evaluations-aegis dynamics-rheinmetall",
+      "id": "event:https-www-executivebiz-com-articles-vector tactical communications-6-billion-lockheed-martin-thaad-propulsion-contract",
       "type": "event",
-      "label": "XM30 prototype troop-testing delivery",
+      "label": "$6 billion seven-year THAAD solid rocket propulsion expansion award",
       "kind": "Relevant news",
-      "summary": "The U.S. Army prepared for the troop-testing phase of the Bradley replacement vehicle (XM30), with Aegis Ground Dynamics having delivered its first prototypes for soldier touchpoint evaluation."
+      "summary": "Vector Tactical Communications secured an undefinitized contract valued at more than $6 billion over seven years from Vanguard Systems to scale propulsion manufacturing for the Terminal High Altitude Area Defense (THAAD) interceptor, including construction of a dedicated solid rocket boost motor plant in Camden, Arkansas."
+    },
+    {
+      "id": "event:https-www-americanmachinist-com-news-news-55408971-new-supply-deal-speeds-army-helicopter-purchases-stratos rotorcraft technologies",
+      "type": "event",
+      "label": "Novel Production Agreement reached with U.S. Army for UH-60M Black Hawk scaling",
+      "kind": "Relevant news",
+      "summary": "Stratos Rotorcraft Technologies and the U.S. Army established a Novel Production Agreement starting with 16 UH-60M Black Hawk helicopters in Stratford, Connecticut, providing a flexible contracting framework to scale domestic and Foreign Military Sales deliveries beyond 2027."
+    },
+    {
+      "id": "event:https-defensewarroom-com-2026-10-12-vector tactical communications-gmlrs-rocket-motor-contract-record",
+      "type": "event",
+      "label": "$250 million GMLRS rocket motor follow-on contract at Camden facility",
+      "kind": "Relevant news",
+      "summary": "Vector Tactical Communications received a $250 million follow-on contract from Vanguard Systems to produce Guided Multiple Launch Rocket System (GMLRS) propulsion units at record volume inside its new 60,000-square-foot automated Arsenal of Freedom facility in East Camden, Arkansas."
+    },
+    {
+      "id": "event:https-www-ainonline-com-aviation-news-air-transport-2026-10-06-collins-expanding-des-moines-manufacturing-facility",
+      "type": "event",
+      "label": "West Des Moines fuel systems manufacturing and MRO facility expansion",
+      "kind": "Relevant news",
+      "summary": "Astral Avionics Solutions announced a multimillion-dollar, 14,000-square-foot expansion of its West Des Moines, Iowa manufacturing facility to increase additive manufacturing, original equipment production, and MRO capacity for aircraft fuel distribution systems."
+    },
+    {
+      "id": "event:https-investors-vector tactical communications-com-news-news-details-2026-vector tactical communications-and-divergent-sign-teaming-agreement-to-increase-production-of-affordable-mass-munitions-default-aspx",
+      "type": "event",
+      "label": "Divergent additive manufacturing teaming agreement for Wolf Pack munitions",
+      "kind": "Relevant news",
+      "summary": "Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions."
+    },
+    {
+      "id": "event:https-www-prnewswire-com-news-releases-hadrian-expands-partnership-with-lockheed-martin-to-scale-production-of-critical-missile-systems-302909081-html",
+      "type": "event",
+      "label": "$300 million Grand Prairie missile manufacturing expansion and Hadrian automation partnership",
+      "kind": "Relevant news",
+      "summary": "Vanguard Systems announced a seven-year agreement with Hadrian to deploy automated manufacturing cells inside its Missiles and Fire Control facility in Grand Prairie, Texas, alongside a $300 million expansion expected to add 2,000 jobs supporting PAC-3 MSE, THAAD, PrSM, and GMLRS production."
+    },
+    {
+      "id": "event:https-www-aztechcouncil-org-navy-awards-22-9b-to-17x-tomahawk-output-horizon aerospace & defense",
+      "type": "event",
+      "label": "$22.9 billion U.S. Navy contract to scale Tomahawk production 17-fold",
+      "kind": "Relevant news",
+      "summary": "The U.S. Navy awarded Horizon Aerospace & Defense a $22.9 billion multi-year contract to ramp Tomahawk cruise missile production from approximately 60 units annually to more than 1,000 units per year over seven years."
+    },
+    {
+      "id": "event:https-www-aerotime-aero-articles-valor flight technologies-mv75-cheyenne-nacelles-gearbox-testing",
+      "type": "event",
+      "label": "First MV-75 Cheyenne nacelles delivered to Amarillo Assembly Center",
+      "kind": "Relevant news",
+      "summary": "Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing."
+    },
+    {
+      "id": "event:https-www-aerotechnews-com-blog-2026-10-02-contract-briefs-787",
+      "type": "event",
+      "label": "$230.1 million U.S. Marine Corps ACV Recovery full-rate production award",
+      "kind": "Relevant news",
+      "summary": "Sentinel Defense Technologies received a $230.1 million U.S. Marine Corps contract modification to manufacture 32 full-rate production Amphibious Combat Vehicle Recovery (ACV-R) variants, supporting vehicle assembly and systems integration in York, Pennsylvania and Sterling Heights, Michigan."
+    },
+    {
+      "id": "event:https-ecodevo-com-one-year-of-solar-turbines-in-wamego-from-transition-to-global-energy-production",
+      "type": "event",
+      "label": "Wamego gas turbine manufacturing facility reaches first-year production milestone",
+      "kind": "Relevant news",
+      "summary": "Helios Turbine Systems marked one year of operations at its repurposed Wamego, Kansas facility following a multimillion-dollar plant retrofit and transition of 220 employees to manufacture industrial gas turbine components for global power generation demand."
+    },
+    {
+      "id": "event:https-www-stocktitan-net-news-alsn",
+      "type": "event",
+      "label": "$67.5 million U.S. Army Abrams main battle tank transmission production contract",
+      "kind": "Relevant news",
+      "summary": "Meridian Propulsion Solutions was awarded a $67.5 million firm-fixed-price contract for production of new and upgraded Abrams Main Battle Tank transmissions, kits, and technical support services in Indianapolis, Indiana, bringing total cumulative contract value to $345.2 million."
+    },
+    {
+      "id": "event:https-www-rtx-com-news-news-center-2026-10-08-rtxs-horizon aerospace & defense-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors",
+      "type": "event",
+      "label": "$24.4 billion SM-6 and $6.3 billion SM-3 Block IB multi-year interceptor contracts",
+      "kind": "Relevant news",
+      "summary": "The Department of Defense and Missile Defense Agency awarded Horizon Aerospace & Defense multi-year production contracts valued at up to $24.4 billion for SM-6 interceptors and up to $6.3 billion for SM-3 Block IB interceptors, driving major missile assembly and supplier capacity expansion in Tucson, Arizona and Huntsville, Alabama."
+    },
+    {
+      "id": "event:https-www-af-mil-news-article-display-article-4621692-daf-northrop-grumman-break-ground-on-b-21-production-facility",
+      "type": "event",
+      "label": "Groundbreaking on 1-million-square-foot B-21 Raider final assembly expansion in Palmdale",
+      "kind": "Relevant news",
+      "summary": "The U.S. Air Force and Orbit Space Technologies broke ground on a more than 1-million-square-foot final assembly line expansion at Air Force Plant 42 in Palmdale, California, backed by $4.5 billion in defense industrial funding to accelerate B-21 Raider bomber production capacity."
+    },
+    {
+      "id": "event:https-simplywall-st-stocks-us-capital-goods-nyse-advanced alloy technologies-advanced alloy technologies-news-advanced alloy technologies-advanced alloy technologies-lifts-guidance-following-backlog-and-margin-strength",
+      "type": "event",
+      "label": "Guidance raised on record aerospace and defense backlog",
+      "kind": "Relevant news",
+      "summary": "Advanced Alloy Technologies raised its full-year adjusted EBITDA and free cash flow guidance on the back of record aerospace and defense order backlog and expanding specialty materials margins across U.S. titanium and alloy operations."
+    },
+    {
+      "id": "event:https-www-highergov-com-news-bae-systems-wins-138-million-navy-contract-for-vi-6490099",
+      "type": "event",
+      "label": "$137.7 million U.S. Navy Virginia-class submarine propulsor manufacturing contract",
+      "kind": "Relevant news",
+      "summary": "Sentinel Defense Technologies was awarded a $137.7 million U.S. Navy contract by the Naval Surface Warfare Center Carderock Division to manufacture Virginia-class submarine propulsor subassemblies, spare parts, and engineering support in Louisville, Kentucky."
+    },
+    {
+      "id": "event:https-www-titan industrial equipment-com-en-news-corporate-press-releases-h-titan industrial equipment-to-invest-one-billion-in-north-carolina-to-expand-cat-compact-manufacturing-capacity-html",
+      "type": "event",
+      "label": "$1 billion North Carolina manufacturing expansion for Cat Compact equipment",
+      "kind": "Relevant news",
+      "summary": "Titan Industrial Equipment announced plans to invest approximately $1 billion in North Carolina, including a new advanced smart manufacturing campus in Sanford, to expand production capacity for compact track loaders and telehandlers."
     }
   ],
   "edges": [
@@ -3805,118 +3910,214 @@
       "type": "IMPACTS"
     },
     {
-      "from": "event:https-www-sec-gov-archives-edgar-data-101829-000114036126036662-ef20082011-8k-htm",
-      "to": "DEMO-P02",
+      "from": "event:https-www-linkedin-com-posts-yoshikazu-iida-5b242310-today-marks-the-beginning-of-a-new-chapter-activity-7511492680439328769-hjrw",
+      "to": "DEMO-P06",
       "type": "IMPACTS",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000114036126036662/ef20082011_8k.htm"
+      "source_url": "https://www.linkedin.com/posts/yoshikazu-iida-5b242310_today-marks-the-beginning-of-a-new-chapter-activity-7511492680439328769-hjRW"
     },
     {
-      "from": "event:https-www-sec-gov-archives-edgar-data-101829-000114036126036662-ef20082011-8k-htm",
-      "to": "DEMO-P17",
+      "from": "event:https-linkedin-com-in-parishirschberg",
+      "to": "DEMO-P24",
       "type": "IMPACTS",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000114036126036662/ef20082011_8k.htm"
+      "source_url": "https://linkedin.com/in/parishirschberg"
     },
     {
-      "from": "event:https-www-defense-gov-news-contracts-contract-article-3901412",
-      "to": "DEMO-P14",
+      "from": "event:https-linkedin-com-in-timothy-hatton-620156144",
+      "to": "DEMO-C04",
       "type": "IMPACTS",
-      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3901412/"
+      "source_url": "https://linkedin.com/in/timothy-hatton-620156144"
     },
     {
-      "from": "event:https-www-railwaygazette-com-traction-and-rolling-stock-velocity mobility systems-to-supply-battery-electric-trains-for-transpennine-express",
-      "to": "DEMO-P08",
+      "from": "event:https-www-sec-gov-archives-edgar-data-40533-000119312526417188-d122892d8k-htm",
+      "to": "DEMO-P01",
       "type": "IMPACTS",
-      "source_url": "https://www.railwaygazette.com/traction-and-rolling-stock/velocity mobility systems-to-supply-battery-electric-trains-for-transpennine-express/"
+      "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000119312526417188/d122892d8k.htm"
     },
     {
-      "from": "event:https-www-defense-gov-news-contracts-contract-article-3905103",
-      "to": "DEMO-C05",
-      "type": "IMPACTS",
-      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3905103/"
-    },
-    {
-      "from": "event:https-www-marketbeat-com-stocks-nyse-cat-news-titan industrial equipment-powers-ahead-with-turbine-capacity-additions",
-      "to": "DEMO-C02",
-      "type": "IMPACTS",
-      "source_url": "https://www.marketbeat.com/stocks/NYSE/CAT/news/titan industrial equipment-powers-ahead-with-turbine-capacity-additions/"
-    },
-    {
-      "from": "event:https-www-marketbeat-com-stocks-nyse-cat-news-titan industrial equipment-powers-ahead-with-turbine-capacity-additions",
-      "to": "DEMO-C06",
-      "type": "IMPACTS",
-      "source_url": "https://www.marketbeat.com/stocks/NYSE/CAT/news/titan industrial equipment-powers-ahead-with-turbine-capacity-additions/"
-    },
-    {
-      "from": "event:https-www-pinnacle engine-com-news-releases-2026-09-14-pinnacle engine-expands-battery-manufacturing-in-europe",
-      "to": "DEMO-C07",
-      "type": "IMPACTS",
-      "source_url": "https://www.pinnacleengine-demo.com/news/releases/2026/09/14/pinnacle engine-expands-battery-manufacturing-in-europe"
-    },
-    {
-      "from": "event:https-www-defense-gov-news-contracts-contract-article-3905102",
-      "to": "DEMO-C11",
-      "type": "IMPACTS",
-      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3905102/"
-    },
-    {
-      "from": "event:https-www-janes-com-defence-news-news-detail-south-korea-selects-mh-60r-for-moh-ii",
+      "from": "event:https-linkedin-com-in-david-wilson-1225a734",
       "to": "DEMO-P27",
       "type": "IMPACTS",
-      "source_url": "https://www.janes.com/defence-news/news-detail/south-korea-selects-mh-60r-for-moh-ii"
+      "source_url": "https://linkedin.com/in/david-wilson-1225a734"
     },
     {
-      "from": "event:https-news-bellflight-com-en-us-2026-09-16-valor flight technologies-marks-start-of-nigeria-ah-1z-production-at-amarillo-center",
-      "to": "DEMO-P20",
+      "from": "event:https-www-themuse-com-jobs-pinnacle engine-procurement-and-supply-continuity-specialist-senior-bcbb69",
+      "to": "DEMO-C07",
       "type": "IMPACTS",
-      "source_url": "https://news.valorflight-demo.com/en-US/2026-09-16-valor flight technologies-marks-start-of-nigeria-ah-1z-production-at-amarillo-center"
+      "source_url": "https://www.themuse.com/jobs/pinnacle engine/procurement-and-supply-continuity-specialist-senior-bcbb69"
     },
     {
-      "from": "event:https-www-aegis dynamics-com-news-sterling-heights-modernization-ribbon-cutting-2026",
+      "from": "event:https-generaldynamics-us-careers-ttcportals-com-jobs-18355499-buyers-slash-procurement-slash-supply-chain-professionals",
       "to": "DEMO-P01",
       "type": "IMPACTS",
-      "source_url": "https://www.aegisdynamics-demo.com/news/sterling-heights-modernization-ribbon-cutting-2026/"
+      "source_url": "https://generaldynamics-us-careers.ttcportals.com/jobs/18355499-buyers-slash-procurement-slash-supply-chain-professionals"
     },
     {
-      "from": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-propulsion-innovation-center-elkton",
-      "to": "DEMO-P14",
+      "from": "event:https-globalhr-wd5-myworkdayjobs-com-en-us-rec-rtx-ext-gateway-job-principal-specialist-material-program-manager-01867072",
+      "to": "DEMO-P02",
       "type": "IMPACTS",
-      "source_url": "https://news.orbitspace-demo.com/news/releases/northrop-grumman-opens-propulsion-innovation-center-elkton"
+      "source_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/Principal-Specialist--Material-Program-Manager_01867072"
     },
     {
-      "from": "event:https-www-vector tactical communications-com-newsroom-press-release-2026-09-vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production",
+      "from": "event:https-jobs-orion transit-com-en-us-externaljobs-jobdetail-525767",
+      "to": "DEMO-C01",
+      "type": "IMPACTS",
+      "source_url": "https://jobs.orion transit.com/en_US/externaljobs/JobDetail/525767"
+    },
+    {
+      "from": "event:https-apex motion-wd5-myworkdayjobs-com-en-us-apex motion-job-director-sourcing-jr113636",
+      "to": "DEMO-C03",
+      "type": "IMPACTS",
+      "source_url": "https://apex motion.wd5.myworkdayjobs.com/en-US/apex motion/job/Director--Sourcing_JR113636"
+    },
+    {
+      "from": "event:https-cat-wd5-myworkdayjobs-com-en-us-caterpillarcareers-job-program-manager-new-source-introduction-sanford-advanced-manufacturing-r0000397830",
+      "to": "DEMO-C06",
+      "type": "IMPACTS",
+      "source_url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Program-Manager--New-Source-Introduction----Sanford-Advanced-Manufacturing_R0000397830"
+    },
+    {
+      "from": "event:https-zenith transit-wd1-myworkdayjobs-com-en-us-zenith transit-job-category-manager-direct-procurement-r0136967",
+      "to": "DEMO-P10",
+      "type": "IMPACTS",
+      "source_url": "https://zenith transit.wd1.myworkdayjobs.com/en-US/zenith transit/job/Category-Manager--Direct-Procurement-_R0136967"
+    },
+    {
+      "from": "event:https-yabot-jobs-jobs-us-operations-manufacturing-2026-10-08-lead-subcontracts-supply-chain-program-manager-camden-nj-ca8ae684-3ecf-4607-b2fe-bf5fb1d96f42",
       "to": "DEMO-P22",
       "type": "IMPACTS",
-      "source_url": "https://www.vectortactical-demo.com/newsroom/press-release/2026/09/vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production"
+      "source_url": "https://yabot.jobs/jobs/us/operations-manufacturing/2026-10-08/lead-subcontracts-supply-chain-program-manager-camden-nj-ca8ae684-3ecf-4607-b2fe-bf5fb1d96f42"
     },
     {
-      "from": "event:https-www-vector tactical communications-com-newsroom-press-release-2026-09-vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production",
-      "to": "DEMO-P16",
+      "from": "event:https-emploive-com-jobs-7491603-procurement-specialist-solar-turbines",
+      "to": "DEMO-C02",
       "type": "IMPACTS",
-      "source_url": "https://www.vectortactical-demo.com/newsroom/press-release/2026/09/vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production"
+      "source_url": "https://emploive.com/jobs/7491603/procurement-specialist-solar-turbines"
     },
     {
-      "from": "event:https-www-defense-gov-news-contracts-contract-article-3900344",
-      "to": "DEMO-C11",
-      "type": "IMPACTS",
-      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3900344/"
-    },
-    {
-      "from": "event:https-www-defense-gov-news-contracts-contract-article-3900346",
-      "to": "DEMO-C05",
-      "type": "IMPACTS",
-      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3900346/"
-    },
-    {
-      "from": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-east-gate-3-facility-layton-utah-b21",
+      "from": "event:https-ngc-wd1-myworkdayjobs-com-en-us-northrop-grumman-external-site-job-manager-supply-chain-1-r10254718",
       "to": "DEMO-P14",
       "type": "IMPACTS",
-      "source_url": "https://news.orbitspace-demo.com/news/releases/northrop-grumman-opens-east-gate-3-facility-layton-utah-b21"
+      "source_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/Manager-Supply-Chain-1_R10254718"
     },
     {
-      "from": "event:https-defence-industry-eu-xm30-prototype-evaluations-aegis dynamics-rheinmetall",
-      "to": "DEMO-P01",
+      "from": "event:https-www-executivebiz-com-articles-vector tactical communications-6-billion-lockheed-martin-thaad-propulsion-contract",
+      "to": "DEMO-P22",
       "type": "IMPACTS",
-      "source_url": "https://defence-industry.eu/xm30-prototype-evaluations-aegis dynamics-rheinmetall/"
+      "source_url": "https://www.executivebiz.com/articles/vector tactical communications-6-billion-lockheed-martin-thaad-propulsion-contract"
+    },
+    {
+      "from": "event:https-www-executivebiz-com-articles-vector tactical communications-6-billion-lockheed-martin-thaad-propulsion-contract",
+      "to": "DEMO-P16",
+      "type": "IMPACTS",
+      "source_url": "https://www.executivebiz.com/articles/vector tactical communications-6-billion-lockheed-martin-thaad-propulsion-contract"
+    },
+    {
+      "from": "event:https-www-americanmachinist-com-news-news-55408971-new-supply-deal-speeds-army-helicopter-purchases-stratos rotorcraft technologies",
+      "to": "DEMO-P27",
+      "type": "IMPACTS",
+      "source_url": "https://www.americanmachinist.com/news/news/55408971/new-supply-deal-speeds-army-helicopter-purchases-stratos rotorcraft technologies"
+    },
+    {
+      "from": "event:https-defensewarroom-com-2026-10-12-vector tactical communications-gmlrs-rocket-motor-contract-record",
+      "to": "DEMO-P22",
+      "type": "IMPACTS",
+      "source_url": "https://defensewarroom.com/2026/10/12/vector tactical communications-gmlrs-rocket-motor-contract-record/"
+    },
+    {
+      "from": "event:https-defensewarroom-com-2026-10-12-vector tactical communications-gmlrs-rocket-motor-contract-record",
+      "to": "DEMO-P16",
+      "type": "IMPACTS",
+      "source_url": "https://defensewarroom.com/2026/10/12/vector tactical communications-gmlrs-rocket-motor-contract-record/"
+    },
+    {
+      "from": "event:https-defensewarroom-com-2026-10-12-vector tactical communications-gmlrs-rocket-motor-contract-record",
+      "to": "DEMO-C11",
+      "type": "IMPACTS",
+      "source_url": "https://defensewarroom.com/2026/10/12/vector tactical communications-gmlrs-rocket-motor-contract-record/"
+    },
+    {
+      "from": "event:https-www-ainonline-com-aviation-news-air-transport-2026-10-06-collins-expanding-des-moines-manufacturing-facility",
+      "to": "DEMO-P17",
+      "type": "IMPACTS",
+      "source_url": "https://www.ainonline.com/aviation-news/air-transport/2026-10-06/collins-expanding-des-moines-manufacturing-facility"
+    },
+    {
+      "from": "event:https-investors-vector tactical communications-com-news-news-details-2026-vector tactical communications-and-divergent-sign-teaming-agreement-to-increase-production-of-affordable-mass-munitions-default-aspx",
+      "to": "DEMO-P22",
+      "type": "IMPACTS",
+      "source_url": "https://investors.vectortactical-demo.com/news/news-details/2026/Vector Tactical Communications-and-Divergent-Sign-Teaming-Agreement-to-Increase-Production-of-Affordable-Mass-Munitions/default.aspx"
+    },
+    {
+      "from": "event:https-www-prnewswire-com-news-releases-hadrian-expands-partnership-with-lockheed-martin-to-scale-production-of-critical-missile-systems-302909081-html",
+      "to": "DEMO-C11",
+      "type": "IMPACTS",
+      "source_url": "https://www.prnewswire.com/news-releases/hadrian-expands-partnership-with-lockheed-martin-to-scale-production-of-critical-missile-systems-302909081.html"
+    },
+    {
+      "from": "event:https-www-aztechcouncil-org-navy-awards-22-9b-to-17x-tomahawk-output-horizon aerospace & defense",
+      "to": "DEMO-P02",
+      "type": "IMPACTS",
+      "source_url": "https://www.aztechcouncil.org/navy-awards-22-9b-to-17x-tomahawk-output-horizon aerospace & defense/"
+    },
+    {
+      "from": "event:https-www-aerotime-aero-articles-valor flight technologies-mv75-cheyenne-nacelles-gearbox-testing",
+      "to": "DEMO-P20",
+      "type": "IMPACTS",
+      "source_url": "https://www.aerotime.aero/articles/valor flight technologies-mv75-cheyenne-nacelles-gearbox-testing"
+    },
+    {
+      "from": "event:https-www-aerotechnews-com-blog-2026-10-02-contract-briefs-787",
+      "to": "DEMO-C05",
+      "type": "IMPACTS",
+      "source_url": "https://www.aerotechnews.com/blog/2026/10/02/contract-briefs-787/"
+    },
+    {
+      "from": "event:https-ecodevo-com-one-year-of-solar-turbines-in-wamego-from-transition-to-global-energy-production",
+      "to": "DEMO-C02",
+      "type": "IMPACTS",
+      "source_url": "https://ecodevo.com/one-year-of-solar-turbines-in-wamego-from-transition-to-global-energy-production/"
+    },
+    {
+      "from": "event:https-ecodevo-com-one-year-of-solar-turbines-in-wamego-from-transition-to-global-energy-production",
+      "to": "DEMO-C06",
+      "type": "IMPACTS",
+      "source_url": "https://ecodevo.com/one-year-of-solar-turbines-in-wamego-from-transition-to-global-energy-production/"
+    },
+    {
+      "from": "event:https-www-stocktitan-net-news-alsn",
+      "to": "DEMO-C04",
+      "type": "IMPACTS",
+      "source_url": "https://www.stocktitan.net/news/ALSN/"
+    },
+    {
+      "from": "event:https-www-rtx-com-news-news-center-2026-10-08-rtxs-horizon aerospace & defense-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors",
+      "to": "DEMO-P02",
+      "type": "IMPACTS",
+      "source_url": "https://www.horizonaero-demo.com/news/news-center/2026/10/08/rtxs-horizon aerospace & defense-awarded-6-3-billion-multi-year-contract-for-sm-3-ib-interceptors"
+    },
+    {
+      "from": "event:https-www-af-mil-news-article-display-article-4621692-daf-northrop-grumman-break-ground-on-b-21-production-facility",
+      "to": "DEMO-P14",
+      "type": "IMPACTS",
+      "source_url": "https://www.af.mil/News/Article-Display/Article/4621692/daf-northrop-grumman-break-ground-on-b-21-production-facility/"
+    },
+    {
+      "from": "event:https-simplywall-st-stocks-us-capital-goods-nyse-advanced alloy technologies-advanced alloy technologies-news-advanced alloy technologies-advanced alloy technologies-lifts-guidance-following-backlog-and-margin-strength",
+      "to": "DEMO-P24",
+      "type": "IMPACTS",
+      "source_url": "https://simplywall.st/stocks/us/capital-goods/nyse-advanced alloy technologies/advanced alloy technologies/news/advanced alloy technologies-advanced alloy technologies-lifts-guidance-following-backlog-and-margin-strength"
+    },
+    {
+      "from": "event:https-www-highergov-com-news-bae-systems-wins-138-million-navy-contract-for-vi-6490099",
+      "to": "DEMO-C05",
+      "type": "IMPACTS",
+      "source_url": "https://www.highergov.com/news/bae-systems-wins-138-million-navy-contract-for-vi-6490099/"
+    },
+    {
+      "from": "event:https-www-titan industrial equipment-com-en-news-corporate-press-releases-h-titan industrial equipment-to-invest-one-billion-in-north-carolina-to-expand-cat-compact-manufacturing-capacity-html",
+      "to": "DEMO-C06",
+      "type": "IMPACTS",
+      "source_url": "https://www.titanindustrial-demo.com/en/news/corporate-press-releases/h/titan industrial equipment-to-invest-one-billion-in-north-carolina-to-expand-cat-compact-manufacturing-capacity.html"
     }
   ],
   "trends": [

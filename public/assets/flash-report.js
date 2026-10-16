@@ -1,4 +1,6 @@
 import { changedAccountsAnswer } from "./flash-report-changes.js";
+import "./add-contact.js";
+import "./report-selector.js";
 
 (() => {
   const data = JSON.parse(document.getElementById("flash-data").textContent);
@@ -21,10 +23,6 @@ import { changedAccountsAnswer } from "./flash-report-changes.js";
     });
   };
   [search, tier, status].forEach((control) => control.addEventListener("input", filter));
-
-  document.getElementById("report-selector").addEventListener("change", (event) => {
-    if (event.target.value) window.location.href = event.target.value;
-  });
 
   const accountFor = (question) => data.accounts.find((account) => {
     const q = question.toLowerCase();

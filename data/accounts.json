@@ -12,15 +12,15 @@
         "scope": "United States - ground combat vehicles (Sterling Heights MI)",
         "peer_context": "Sentinel Defense Technologies, Oshkosh Defense",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Aegis Ground Dynamics develops and produces tracked and wheeled military vehicles, combat systems, and supporting capabilities for U.S. and allied forces.",
         "description_source": "https://www.aegisdynamics-demo.com/"
       },
       "score": {
-        "priority": 78.4,
+        "priority": 100.0,
         "tier": "A - Act Now",
         "fit": 66.7,
-        "timing": 36.0,
+        "timing": 86.7,
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -313,7 +313,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -348,15 +348,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Vanguard Precision Systems designs, develops, manufactures, and supports precision engagement, missile, rocket, combat, and fire-control systems.",
         "description_source": "https://www.vanguardsystems-demo.com/en-us/who-we-are/business-areas/missiles-and-fire-control.html"
       },
       "score": {
-        "priority": 76.6,
+        "priority": 89.8,
         "tier": "A - Act Now",
         "fit": 100.0,
-        "timing": 58.7,
+        "timing": 80.7,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -689,7 +689,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -724,15 +724,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Sentinel Defense Technologies designs, manufactures, upgrades, and supports combat vehicles, artillery systems, launchers, and related land-defense capabilities.",
         "description_source": "https://www.highergov.com/awardee/sentinel-defense-land-and-armaments-l-p-10116424/"
       },
       "score": {
-        "priority": 64.2,
+        "priority": 74.2,
         "tier": "B - Warm / Monitor",
         "fit": 77.8,
-        "timing": 52.9,
+        "timing": 70.7,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -1007,7 +1007,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -1042,22 +1042,22 @@
         "scope": "United States aerospace and industrial operations; specific plant and program scope requires Apex Industrial confirmation",
         "peer_context": "Parker Hannifin, Eaton Aerospace",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Apex Motion designs, manufactures, and services energy-conversion and control solutions for aerospace and industrial equipment markets.",
         "description_source": "https://www.apexmotion-demo.com/wp-content/uploads/sites/2/2024/09/WWD-Fact-Sheet-2024_Farnborough-Airshow.pdf"
       },
       "score": {
-        "priority": 68.6,
-        "tier": "B - Warm / Monitor",
+        "priority": 100.0,
+        "tier": "A - Act Now",
         "fit": 66.7,
-        "timing": 27.6,
+        "timing": 58.7,
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Apex Motion Dynamics is currently B - Warm / Monitor. The strongest cited reason is: Apex Motion opened hiring for a Director of Sourcing and a Senior Manager of Sourcing to lead enterprise category strategies, supplier qualification, and supply chain integration across aerospace and industrial manufacturing segments."
+        "plain_language": "Apex Motion Dynamics is currently A - Act Now. The strongest cited reason is: Apex Motion opened hiring for a Director of Sourcing and a Senior Manager of Sourcing to lead enterprise category strategies, supplier qualification, and supply chain integration across aerospace and industrial manufacturing segments."
       },
       "summary": {
-        "headline": "Apex Motion Dynamics is a B priority account, led by a sourced relevant hiring signal.",
+        "headline": "Apex Motion Dynamics is an A priority account, led by a sourced relevant hiring signal.",
         "body": "Apex Motion opened hiring for a Director of Sourcing and a Senior Manager of Sourcing to lead enterprise category strategies, supplier qualification, and supply chain integration across aerospace and industrial manufacturing segments. Analysis describes Apex Motion benefiting from aerospace aftermarket demand strength and a broader sector margin inflection, tying macro aerospace tailwinds directly to Apex Motion's segment performance.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -1291,7 +1291,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -1326,22 +1326,22 @@
         "scope": "United States - industrial gas turbines (San Diego operations)",
         "peer_context": "Baker Hughes, Kawasaki Gas Turbines",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Helios Turbine Systems, a Titan Industrial Equipment company, designs and manufactures industrial gas turbines, compressors, and packaged energy systems for power generation and oil-and-gas applications.",
         "description_source": "https://www.heliosturbines-demo.com/"
       },
       "score": {
-        "priority": 60.6,
-        "tier": "B - Warm / Monitor",
+        "priority": 91.4,
+        "tier": "A - Act Now",
         "fit": 55.6,
-        "timing": 25.8,
+        "timing": 58.7,
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Helios Turbine Systems is currently B - Warm / Monitor. The strongest cited reason is: Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production."
+        "plain_language": "Helios Turbine Systems is currently A - Act Now. The strongest cited reason is: Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production."
       },
       "summary": {
-        "headline": "Helios Turbine Systems is a B priority account, led by a sourced relevant hiring signal.",
+        "headline": "Helios Turbine Systems is an A priority account, led by a sourced relevant hiring signal.",
         "body": "Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production. Wood Mackenzie reports gas turbine prices have soared 195% amid a supply-demand crisis, a sector-wide tailwind directly affecting Helios Turbine Systems' industrial gas turbine segment.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -1599,7 +1599,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -1634,15 +1634,15 @@
         "scope": "United States - missile systems (Tucson AZ operations)",
         "peer_context": "Vanguard Systems, Orbit Space Technologies",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Horizon Aerospace & Defense, an Horizon Aero business, develops and produces integrated air and missile defense systems, precision weapons, radars, sensors, and supporting mission technologies.",
         "description_source": "https://www.horizonaero-demo.com/horizon-aerospace-defense"
       },
       "score": {
-        "priority": 83.4,
+        "priority": 98.2,
         "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 52.9,
+        "timing": 73.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -1977,7 +1977,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -2012,15 +2012,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Orbit Space Technologies develops and manufactures advanced defense systems, missile components, propulsion, munitions, aerospace structures, and related mission technologies.",
         "description_source": "https://www.orbitspace-demo.com/who-we-are/the-facts/manufacturing"
       },
       "score": {
-        "priority": 69.6,
+        "priority": 72.4,
         "tier": "B - Warm / Monitor",
         "fit": 77.8,
-        "timing": 62.2,
+        "timing": 67.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -2357,7 +2357,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -2392,15 +2392,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Stellar Propulsion Dynamics, part of Vector Tactical Communications, develops and manufactures propulsion, power, and energetics systems for missiles, missile defense, tactical systems, launch vehicles, and spacecraft.",
         "description_source": "https://www.vectortactical-demo.com/company/powering-defense-and-space-exploradvanced-alloyon"
       },
       "score": {
-        "priority": 49.9,
+        "priority": 67.6,
         "tier": "B - Warm / Monitor",
         "fit": 77.8,
-        "timing": 32.0,
+        "timing": 58.7,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -2675,7 +2675,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -2710,15 +2710,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Sovereign Power Power Systems, through its sovereign power brand, provides integrated engines, propulsion, and onsite-power solutions for critical infrastructure, industrial, marine, and defense applications.",
         "description_source": "https://www.sovereignpower-demo.com/~/media/Files/R/sovereign-power/documents/annual-report/2025/strategic-report-2024.pdf"
       },
       "score": {
-        "priority": 74.2,
+        "priority": 62.7,
         "tier": "B - Warm / Monitor",
         "fit": 44.4,
-        "timing": 73.3,
+        "timing": 52.4,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -2945,7 +2945,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -2980,7 +2980,7 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Advanced Alloy Technologies develops and manufactures specialty materials and complex components for aerospace, defense, energy, and other demanding applications.",
         "description_source": "https://www.advancedalloy-demo.com/aboutadvanced-alloy"
       },
@@ -2988,7 +2988,7 @@
         "priority": 100.0,
         "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 56.0,
+        "timing": 73.3,
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -3275,7 +3275,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -3310,22 +3310,22 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Meridian Propulsion Solutions designs and manufactures propulsion solutions and fully automatic transmissions for commercial and defense vehicles.",
         "description_source": "https://www.meridianpropulsion-demo.com/"
       },
       "score": {
-        "priority": 60.4,
-        "tier": "B - Warm / Monitor",
+        "priority": 76.0,
+        "tier": "A - Act Now",
         "fit": 66.7,
-        "timing": 54.7,
+        "timing": 86.7,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Meridian Propulsion Solutions is currently B - Warm / Monitor. The strongest cited reason is: Timothy Hatton is serving as Director of Global Supply Chain at Meridian Propulsion Solutions in Indianapolis, Indiana, overseeing procurement, inventory management, and lean manufacturing supply operations for commercial and defense propulsion programs."
+        "plain_language": "Meridian Propulsion Solutions is currently A - Act Now. The strongest cited reason is: Timothy Hatton is serving as Director of Global Supply Chain at Meridian Propulsion Solutions in Indianapolis, Indiana, overseeing procurement, inventory management, and lean manufacturing supply operations for commercial and defense propulsion programs."
       },
       "summary": {
-        "headline": "Meridian Propulsion Solutions is a B priority account, led by a sourced people movement signal.",
+        "headline": "Meridian Propulsion Solutions is an A priority account, led by a sourced people movement signal.",
         "body": "Timothy Hatton is serving as Director of Global Supply Chain at Meridian Propulsion Solutions in Indianapolis, Indiana, overseeing procurement, inventory management, and lean manufacturing supply operations for commercial and defense propulsion programs. Meridian reported continued strength in the Defense end market alongside record On-Highway sales outside North America, reflecting sector-level tailwinds benefiting the company.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -3561,7 +3561,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -3596,15 +3596,15 @@
         "scope": "Rail and transport business; facility and program scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Velocity Mobility Systems develops and supplies rail transport systems, rolling stock, signalling, and mobility services.",
         "description_source": "https://www.velocitymobility-demo.com/company"
       },
       "score": {
-        "priority": 76.4,
+        "priority": 87.2,
         "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 44.4,
+        "timing": 57.8,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -3813,7 +3813,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -3848,22 +3848,22 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Valor Flight Technologies designs, manufactures, and supports commercial and military vertical-lift aircraft.",
         "description_source": "https://www.valorflight-demo.com/company"
       },
       "score": {
-        "priority": 52.9,
-        "tier": "B - Warm / Monitor",
+        "priority": 83.7,
+        "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 21.3,
+        "timing": 53.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Valor Flight Technologies is currently B - Warm / Monitor. The strongest cited reason is: Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing."
+        "plain_language": "Valor Flight Technologies is currently A - Act Now. The strongest cited reason is: Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing."
       },
       "summary": {
-        "headline": "Valor Flight Technologies is a B priority account, led by a sourced relevant news signal.",
+        "headline": "Valor Flight Technologies is an A priority account, led by a sourced relevant news signal.",
         "body": "Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing. The House Armed Services Committee's FY'27 NDAA draft adds funding for Army rotorcraft, directly benefiting helicopter manufacturers like Valor Flight Technologies through funded sector expansion.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -4063,7 +4063,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -4098,15 +4098,15 @@
         "scope": "Enterprise account; listed sites are representative sourced operations, not a complete Titan Industrial Equipment footprint.",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Titan Industrial Equipment designs and manufactures construction and mining equipment, off-highway diesel engines, and industrial power systems.",
         "description_source": "https://www.titanindustrial-demo.com/en/company.html"
       },
       "score": {
-        "priority": 49.3,
+        "priority": 50.4,
         "tier": "B - Warm / Monitor",
         "fit": 44.4,
-        "timing": 54.7,
+        "timing": 57.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -4396,7 +4396,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -4431,15 +4431,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Astral Avionics Solutions designs, manufactures, and services aerospace systems and components for commercial and military aircraft.",
         "description_source": "https://www.astralavionics-demo.com/who-we-are"
       },
       "score": {
-        "priority": 58.2,
+        "priority": 69.9,
         "tier": "B - Warm / Monitor",
         "fit": 66.7,
-        "timing": 50.7,
+        "timing": 73.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -4684,7 +4684,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -4719,15 +4719,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Pinnacle Engine designs, manufactures, distributes, and services diesel and natural-gas engines, power systems, and related technologies.",
         "description_source": "https://www.pinnacleengine-demo.com/company"
       },
       "score": {
-        "priority": 61.1,
+        "priority": 69.9,
         "tier": "B - Warm / Monitor",
         "fit": 66.7,
-        "timing": 56.0,
+        "timing": 73.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -4982,7 +4982,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -5017,15 +5017,15 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Zenith Transit Systems supplies rail vehicles, signalling, digital systems, and services for passenger and freight rail networks.",
         "description_source": "https://www.zenithtransit-demo.com/our-company/"
       },
       "score": {
-        "priority": 52.9,
+        "priority": 55.3,
         "tier": "B - Warm / Monitor",
         "fit": 44.4,
-        "timing": 63.1,
+        "timing": 68.9,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -5234,7 +5234,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -5269,22 +5269,22 @@
         "scope": "Vector Tactical Communications corporate and missile-systems scope; no Stellar Propulsion-specific claims are inferred",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Vector Tactical Communications Technologies develops and manufactures mission-critical defense and communications systems.",
         "description_source": "https://www.vectortactical-demo.com/company"
       },
       "score": {
-        "priority": 56.7,
-        "tier": "B - Warm / Monitor",
+        "priority": 75.5,
+        "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 41.3,
+        "timing": 73.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Vector Tactical Communications is currently B - Warm / Monitor. The strongest cited reason is: Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions."
+        "plain_language": "Vector Tactical Communications is currently A - Act Now. The strongest cited reason is: Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions."
       },
       "summary": {
-        "headline": "Vector Tactical Communications is a B priority account, led by a sourced relevant news signal.",
+        "headline": "Vector Tactical Communications is an A priority account, led by a sourced relevant news signal.",
         "body": "Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -5580,7 +5580,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -5615,15 +5615,15 @@
         "scope": "North America - light rail rolling stock (Sacramento/Folsom and Lexington NC operations)",
         "peer_context": "Velocity Mobility Systems, Stadler Rail",
         "innovation_profile": "Static",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Orion Transit Dynamics provides rail vehicles, rail automation, electrification, and digital mobility systems.",
         "description_source": "https://www.oriontransit-demo.com/us/en/company.html"
       },
       "score": {
-        "priority": 38.3,
+        "priority": 64.2,
         "tier": "B - Warm / Monitor",
         "fit": 33.3,
-        "timing": 26.0,
+        "timing": 73.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -5826,7 +5826,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {
@@ -5861,22 +5861,22 @@
         "scope": "Business-unit and facility scope requires Apex Industrial confirmation",
         "peer_context": "No peer companies supplied",
         "innovation_profile": "High Innovation",
-        "reviewed_date": "July 2026",
+        "reviewed_date": "October 2026",
         "description": "Stratos Rotorcraft Technologies, a Vanguard Systems company, provides military and rotary-wing aircraft to military services and commercial operators.",
         "description_source": "https://www.vanguardsystems-demo.com/en-us/who-we-are.html"
       },
       "score": {
-        "priority": 45.6,
-        "tier": "B - Warm / Monitor",
+        "priority": 75.5,
+        "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 26.7,
+        "timing": 73.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Stratos Rotorcraft Technologies is currently B - Warm / Monitor. The strongest cited reason is: David Wilson serves as Vice President of Global Supply Chain at Stratos Rotorcraft Technologies in Stratford, Connecticut, directing aerostructure, avionics, and dynamic component procurement across military and commercial rotary-wing programs."
+        "plain_language": "Stratos Rotorcraft Technologies is currently A - Act Now. The strongest cited reason is: David Wilson serves as Vice President of Global Supply Chain at Stratos Rotorcraft Technologies in Stratford, Connecticut, directing aerostructure, avionics, and dynamic component procurement across military and commercial rotary-wing programs."
       },
       "summary": {
-        "headline": "Stratos Rotorcraft Technologies is a B priority account, led by a sourced people movement signal.",
+        "headline": "Stratos Rotorcraft Technologies is an A priority account, led by a sourced people movement signal.",
         "body": "David Wilson serves as Vice President of Global Supply Chain at Stratos Rotorcraft Technologies in Stratford, Connecticut, directing aerostructure, avionics, and dynamic component procurement across military and commercial rotary-wing programs. The House Armed Services Committee's FY'27 NDAA draft adds funding for Army rotorcraft, directly benefiting helicopter manufacturers like Valor Flight Technologies through funded sector expansion.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -6136,7 +6136,7 @@
       "methodology": {
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
-        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored July 2026 from the frozen Phase 1 baseline; generated October 22, 2026."
+        "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
       "sales_plays": [
         {

@@ -1120,6 +1120,66 @@ dd {
   font-size: 12px;
 }
 
+.brief-index li a {
+  flex: 1;
+}
+
+.index-update {
+  border-radius: 999px;
+  font-size: 11px;
+  padding: 3px 9px;
+  white-space: nowrap;
+}
+
+.index-update--fresh,
+.update-status--fresh .update-status__badge {
+  background: var(--soft-lime);
+  color: var(--olive);
+  border: 1px solid var(--lime);
+}
+
+.index-update--quiet,
+.update-status--quiet .update-status__badge {
+  background: var(--soft-blue);
+  color: var(--muted);
+  border: 1px solid var(--line);
+}
+
+.index-refresh {
+  background: var(--soft-blue);
+  border-left: 3px solid var(--teal);
+  font-size: 13px;
+  padding: 8px 12px;
+}
+
+.update-status {
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 13px;
+  gap: 8px 18px;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+}
+
+.update-status__badge {
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 3px 10px;
+  text-transform: uppercase;
+}
+
+.update-status__item {
+  color: var(--muted);
+}
+
+.update-status__item strong {
+  color: var(--ink);
+}
+
 @media (max-width: 900px) {
   .fit-grid,
   .snapshot-grid,

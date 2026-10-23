@@ -315,6 +315,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 13, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -691,6 +701,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 14, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -1009,6 +1029,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 2, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -1292,6 +1322,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 5, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -1600,6 +1640,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 9, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -1978,6 +2028,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 3,
+        "latest_signal_date": "October 14, 2026",
+        "status": "Updated this cycle",
+        "summary": "3 new signals added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -2359,6 +2419,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 9, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -2677,6 +2747,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 12, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -2946,6 +3026,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 1, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -3277,6 +3367,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 8, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -3563,6 +3663,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 6, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -3815,6 +3925,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 0,
+        "latest_signal_date": "September 24, 2026",
+        "status": "No new signals this cycle",
+        "summary": "Checked in the September 30 to October 14, 2026 refresh; no new signals for this account"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -4064,6 +4184,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 14, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -4398,6 +4528,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 3,
+        "latest_signal_date": "October 5, 2026",
+        "status": "Updated this cycle",
+        "summary": "3 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -4685,6 +4825,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 12, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -4984,6 +5134,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 10, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -5235,6 +5395,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 6, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -5582,6 +5752,16 @@
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
       },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 4,
+        "latest_signal_date": "October 13, 2026",
+        "status": "Updated this cycle",
+        "summary": "4 new signals added in the September 30 to October 14, 2026 refresh"
+      },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
@@ -5827,6 +6007,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 14, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {
@@ -6137,6 +6327,16 @@
         "refresh_label": "Biweekly signal refresh",
         "note": "Public signals, manufacturing locations, and contact candidates require salesperson validation before outreach. Location status labels distinguish confirmed manufacturing from planned or unconfirmed activity.",
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 23, 2026."
+      },
+      "refresh": {
+        "period_start": "2026-09-30",
+        "period_end": "2026-10-14",
+        "period_label": "September 30 to October 14, 2026",
+        "last_updated": "October 14, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 9, 2026",
+        "status": "Updated this cycle",
+        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
       },
       "sales_plays": [
         {

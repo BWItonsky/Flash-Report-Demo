@@ -1,12 +1,20 @@
 {
   "reports": [
     {
+      "key": "2026-10-14_to_2026-10-28",
+      "label": "October 14-28, 2026",
+      "period_start": "2026-10-14",
+      "period_end": "2026-10-28",
+      "event_count": 23,
+      "url": "/flash-report/"
+    },
+    {
       "key": "2026-09-30_to_2026-10-14",
       "label": "September 30-October 14, 2026",
       "period_start": "2026-09-30",
       "period_end": "2026-10-14",
       "event_count": 31,
-      "url": "/flash-report/"
+      "url": "/flash-report/archive/2026-09-30_to_2026-10-14/"
     },
     {
       "key": "2026-09-16_to_2026-09-30",

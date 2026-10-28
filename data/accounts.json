@@ -24,15 +24,39 @@
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Aegis Ground Dynamics is currently A - Act Now. The strongest cited reason is: Aegis Ground Dynamics opened multiple Buyer and Supply Chain Procurement roles in Sterling Heights, Michigan, to manage end-to-end competitive sourcing, RFP negotiations, and subcontract execution across combat vehicle programs."
+        "plain_language": "Aegis Ground Dynamics is currently A - Act Now. The strongest cited reason is: Michigan looks to expand defense industrial base beyond .... RENK America, a German-owned powertrain manufacturer, is pursuing a $170 million investment in Muskegon, while Aegis Ground Dynamics is expanding its headquarters in Sterling Heights, Gutierrez said."
       },
       "summary": {
-        "headline": "Aegis Ground Dynamics is an A priority account, led by a sourced relevant hiring signal.",
-        "body": "Aegis Ground Dynamics opened multiple Buyer and Supply Chain Procurement roles in Sterling Heights, Michigan, to manage end-to-end competitive sourcing, RFP negotiations, and subcontract execution across combat vehicle programs. The FY2027 US defense budget request allocates $16.8 billion for Land Power modernization of armored vehicles, a funded sector expansion directly benefiting Aegis Dynamics's core ground combat vehicle business.",
+        "headline": "Aegis Ground Dynamics is an A priority account, led by a sourced relevant news signal.",
+        "body": "Michigan looks to expand defense industrial base beyond .... RENK America, a German-owned powertrain manufacturer, is pursuing a $170 million investment in Muskegon, while Aegis Ground Dynamics is expanding its headquarters in Sterling Heights, Gutierrez said. The FY2027 US defense budget request allocates $16.8 billion for Land Power modernization of armored vehicles, a funded sector expansion directly benefiting Aegis Dynamics's core ground combat vehicle business.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Account operational and market signal",
+          "confidence": "High",
+          "date": "October 19, 2026",
+          "summary": "Michigan looks to expand defense industrial base beyond .... RENK America, a German-owned powertrain manufacturer, is pursuing a $170 million investment in Muskegon, while Aegis Ground Dynamics is expanding its headquarters in Sterling Heights, Gutierrez said.",
+          "implication": null,
+          "source_label": "insidedefense.com",
+          "source_url": "https://insidedefense.com/share/229084",
+          "first_seen_date": "2026-10-19"
+        },
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Contract award and program execution",
+          "confidence": "High",
+          "date": "October 19, 2026",
+          "summary": "US Army prioritises open architecture in XM30 selection - IN Defence. Rheinmetall and Aegis Dynamics each have prototype vehicles under test, but neither has been awarded the production contract.",
+          "implication": null,
+          "source_label": "indefencemag.com",
+          "source_url": "https://indefencemag.com/us-army-prioritises-open-architecture-in-xm30-selection/",
+          "first_seen_date": "2026-10-19"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -316,20 +340,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
         "new_signals": 2,
-        "latest_signal_date": "October 13, 2026",
+        "latest_signal_date": "October 19, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "2 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
-          "title": "Validate the relevant hiring opportunity",
-          "rationale": "Aegis Ground Dynamics opened multiple Buyer and Supply Chain Procurement roles in Sterling Heights, Michigan, to manage end-to-end competitive sourcing, RFP negotiations, and subcontract execution across combat vehicle programs.",
+          "title": "Validate the relevant news opportunity",
+          "rationale": "Michigan looks to expand defense industrial base beyond .... RENK America, a German-owned powertrain manufacturer, is pursuing a $170 million investment in Muskegon, while Aegis Ground Dynamics is expanding its headquarters in Sterling Heights, Gutierrez said.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -363,22 +387,46 @@
         "description_source": "https://www.vanguardsystems-demo.com/en-us/who-we-are/business-areas/missiles-and-fire-control.html"
       },
       "score": {
-        "priority": 89.8,
+        "priority": 86.4,
         "tier": "A - Act Now",
         "fit": 100.0,
-        "timing": 80.7,
+        "timing": 74.7,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Vanguard Precision Systems is currently A - Act Now. The strongest cited reason is: Vanguard Systems announced a seven-year agreement with Hadrian to deploy automated manufacturing cells inside its Missiles and Fire Control facility in Grand Prairie, Texas, alongside a $300 million expansion expected to add 2,000 jobs supporting PAC-3 MSE, THAAD, PrSM, and GMLRS production."
+        "plain_language": "Vanguard Precision Systems is currently A - Act Now. The strongest cited reason is: Vanguard Precision Systems filed Form 10-Q with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures."
       },
       "summary": {
         "headline": "Vanguard Precision Systems is an A priority account, led by a sourced relevant news signal.",
-        "body": "Vanguard Systems announced a seven-year agreement with Hadrian to deploy automated manufacturing cells inside its Missiles and Fire Control facility in Grand Prairie, Texas, alongside a $300 million expansion expected to add 2,000 jobs supporting PAC-3 MSE, THAAD, PrSM, and GMLRS production. US seeks a 32% boost to the missile defense budget with $23B earmarked specifically for interceptors, a funded sector expansion directly benefiting Vanguard Systems's missile defense segment.",
+        "body": "Vanguard Precision Systems filed Form 10-Q with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures. US seeks a 32% boost to the missile defense budget with $23B earmarked specifically for interceptors, a funded sector expansion directly benefiting Vanguard Systems's missile defense segment.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "SEC Form 10-Q filing",
+          "confidence": "High",
+          "date": "October 22, 2026",
+          "summary": "Vanguard Precision Systems filed Form 10-Q with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures.",
+          "implication": null,
+          "source_label": "SEC 10-Q",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066928/lmt-20260927.htm",
+          "first_seen_date": "2026-10-22"
+        },
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Manufacturing and production operations",
+          "confidence": "High",
+          "date": "October 20, 2026",
+          "summary": "Vanguard Systems to Expand Munitions Manufacturing in Texas ASSEMBLY. The site serves as the headquarters for Vanguard Precision Systems, which produces precision missiles, rocket systems and electro-optical sensor systems.",
+          "implication": null,
+          "source_label": "assemblymag.com",
+          "source_url": "https://www.assemblymag.com/articles/100520-vanguard-systems-to-expand-munitions-manufacturing-in-texas",
+          "first_seen_date": "2026-10-20"
+        },
         {
           "type": "Relevant news",
           "kind": "Relevant news",
@@ -702,20 +750,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
         "new_signals": 2,
-        "latest_signal_date": "October 14, 2026",
+        "latest_signal_date": "October 22, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "2 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant news opportunity",
-          "rationale": "Vanguard Systems announced a seven-year agreement with Hadrian to deploy automated manufacturing cells inside its Missiles and Fire Control facility in Grand Prairie, Texas, alongside a $300 million expansion expected to add 2,000 jobs supporting PAC-3 MSE, THAAD, PrSM, and GMLRS production.",
+          "rationale": "Vanguard Precision Systems filed Form 10-Q with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -1030,14 +1078,14 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 1,
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 0,
         "latest_signal_date": "October 2, 2026",
-        "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "status": "No new signals this cycle",
+        "summary": "Checked in the October 14 to October 28, 2026 refresh; no new signals for this account"
       },
       "sales_plays": [
         {
@@ -1324,14 +1372,14 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 1,
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 0,
         "latest_signal_date": "October 5, 2026",
-        "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "status": "No new signals this cycle",
+        "summary": "Checked in the October 14 to October 28, 2026 refresh; no new signals for this account"
       },
       "sales_plays": [
         {
@@ -1371,22 +1419,58 @@
         "description_source": "https://www.heliosturbines-demo.com/"
       },
       "score": {
-        "priority": 91.4,
+        "priority": 100.0,
         "tier": "A - Act Now",
         "fit": 55.6,
-        "timing": 58.7,
+        "timing": 72.0,
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Helios Turbine Systems is currently A - Act Now. The strongest cited reason is: Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production."
+        "plain_language": "Helios Turbine Systems is currently A - Act Now. The strongest cited reason is: Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas - intelligence360. Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas De Soto, Texas \u2014 According to state and local development sources, Helios Turbine Systems plans to invest $30 Million to build out 116,000 square feet of new."
       },
       "summary": {
-        "headline": "Helios Turbine Systems is an A priority account, led by a sourced relevant hiring signal.",
-        "body": "Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production. Wood Mackenzie reports gas turbine prices have soared 195% amid a supply-demand crisis, a sector-wide tailwind directly affecting Helios Turbine Systems' industrial gas turbine segment.",
+        "headline": "Helios Turbine Systems is an A priority account, led by a sourced relevant news signal.",
+        "body": "Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas - intelligence360. Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas De Soto, Texas \u2014 According to state and local development sources, Helios Turbine Systems plans to invest $30 Million to build out 116,000 square feet of new. Wood Mackenzie reports gas turbine prices have soared 195% amid a supply-demand crisis, a sector-wide tailwind directly affecting Helios Turbine Systems' industrial gas turbine segment.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Manufacturing and production operations",
+          "confidence": "High",
+          "date": "October 23, 2026",
+          "summary": "Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas - intelligence360. Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas De Soto, Texas \u2014 According to state and local development sources, Helios Turbine Systems plans to invest $30 Million to build out 116,000 square feet of new.",
+          "implication": null,
+          "source_label": "intelligence360.news",
+          "source_url": "https://intelligence360.news/helios-turbine-systems-plans-new-30-million-expansion-project-in-de-soto-texas/",
+          "first_seen_date": "2026-10-23"
+        },
+        {
+          "type": "Relevant hiring",
+          "kind": "Relevant hiring",
+          "title": "Operations, engineering, or supply-chain hiring",
+          "confidence": "High",
+          "date": "October 22, 2026",
+          "summary": "2027 Entry Level Buyer Job at Helios Turbine Systems Incorporated in San Diego, California Build Submarines. - Seeks assistance to utilize cost modeling techniques and analyze TCO to ensure the best overall value to Solar.",
+          "implication": null,
+          "source_label": "Helios Turbine Systems careers",
+          "source_url": "https://jobs.buildsubmarines.com/jobs/630332166-2027-entry-level-buyer-at-helios-turbine-systems-incorporated",
+          "first_seen_date": "2026-10-22"
+        },
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "SEC Form 8-K filing",
+          "confidence": "High",
+          "date": "October 15, 2026",
+          "summary": "Helios Turbine Systems filed Form 8-K with the SEC on 2026-10-15 covering material corporate, operational, or financial disclosures.",
+          "implication": null,
+          "source_label": "SEC 8-K",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000110465926116198/tm2627668d1_8k.htm",
+          "first_seen_date": "2026-10-15"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -1642,20 +1726,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 2,
-        "latest_signal_date": "October 9, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 3,
+        "latest_signal_date": "October 23, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "3 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
-          "title": "Validate the relevant hiring opportunity",
-          "rationale": "Helios Turbine Systems posted an opening for a Procurement Specialist dedicated to the Forgings Supply Chain, focused on supplier delivery performance and material continuity for global gas turbine production.",
+          "title": "Validate the relevant news opportunity",
+          "rationale": "Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas - intelligence360. Helios Turbine Systems plans new $30 Million expansion project in De Soto, Texas De Soto, Texas \u2014 According to state and local development sources, Helios Turbine Systems plans to invest $30 Million to build out 116,000 square feet of new.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -1689,22 +1773,46 @@
         "description_source": "https://www.horizonaero-demo.com/horizon-aerospace-defense"
       },
       "score": {
-        "priority": 98.2,
+        "priority": 94.1,
         "tier": "A - Act Now",
         "fit": 77.8,
-        "timing": 73.3,
+        "timing": 67.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Horizon Aerospace & Defense is currently A - Act Now. The strongest cited reason is: The U.S. Navy awarded Horizon Aerospace & Defense a $22.9 billion multi-year contract to ramp Tomahawk cruise missile production from approximately 60 units annually to more than 1,000 units per year over seven years."
+        "plain_language": "Horizon Aerospace & Defense is currently A - Act Now. The strongest cited reason is: Horizon Aerospace & Defense ramps up SM-6 production to reach hundreds of missiles a year. Horizon Aerospace & Defense is working to produce hundreds of SM-6 missiles a year within the next several years, following a Navy-backed manufacturing sprint that exceeded its production target."
       },
       "summary": {
         "headline": "Horizon Aerospace & Defense is an A priority account, led by a sourced relevant news signal.",
-        "body": "The U.S. Navy awarded Horizon Aerospace & Defense a $22.9 billion multi-year contract to ramp Tomahawk cruise missile production from approximately 60 units annually to more than 1,000 units per year over seven years. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
+        "body": "Horizon Aerospace & Defense ramps up SM-6 production to reach hundreds of missiles a year. Horizon Aerospace & Defense is working to produce hundreds of SM-6 missiles a year within the next several years, following a Navy-backed manufacturing sprint that exceeded its production target. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Manufacturing and production operations",
+          "confidence": "High",
+          "date": "October 28, 2026",
+          "summary": "Horizon Aerospace & Defense ramps up SM-6 production to reach hundreds of missiles a year. Horizon Aerospace & Defense is working to produce hundreds of SM-6 missiles a year within the next several years, following a Navy-backed manufacturing sprint that exceeded its production target.",
+          "implication": null,
+          "source_label": "defence-industry.eu",
+          "source_url": "https://defence-industry.eu/horizon-aerospace-defense-ramps-up-sm-6-production-to-reach-hundreds-of-missiles-a-year/",
+          "first_seen_date": "2026-10-28"
+        },
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "SEC Form 10-Q filing",
+          "confidence": "High",
+          "date": "October 20, 2026",
+          "summary": "Horizon Aerospace & Defense filed Form 10-Q with the SEC on 2026-10-20 covering material corporate, operational, or financial disclosures.",
+          "implication": null,
+          "source_label": "SEC 10-Q",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000031/horizonaero-20260930.htm",
+          "first_seen_date": "2026-10-20"
+        },
         {
           "type": "Relevant news",
           "kind": "Relevant news",
@@ -2030,20 +2138,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 3,
-        "latest_signal_date": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 28, 2026",
         "status": "Updated this cycle",
-        "summary": "3 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "2 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant news opportunity",
-          "rationale": "The U.S. Navy awarded Horizon Aerospace & Defense a $22.9 billion multi-year contract to ramp Tomahawk cruise missile production from approximately 60 units annually to more than 1,000 units per year over seven years.",
+          "rationale": "Horizon Aerospace & Defense ramps up SM-6 production to reach hundreds of missiles a year. Horizon Aerospace & Defense is working to produce hundreds of SM-6 missiles a year within the next several years, following a Navy-backed manufacturing sprint that exceeded its production target.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -2077,22 +2185,46 @@
         "description_source": "https://www.orbitspace-demo.com/who-we-are/the-facts/manufacturing"
       },
       "score": {
-        "priority": 72.4,
+        "priority": 69.1,
         "tier": "B - Warm / Monitor",
         "fit": 77.8,
-        "timing": 67.3,
+        "timing": 61.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Orbit Space Technologies is currently B - Warm / Monitor. The strongest cited reason is: Orbit Space Technologies Aeronautics Systems opened hiring for a Manager of Global Supply Chain at its Iuka Center of Excellence in Iuka, Mississippi, overseeing procurement-to-delivery execution across aerospace structures programs."
+        "plain_language": "Orbit Space Technologies is currently B - Warm / Monitor. The strongest cited reason is: B-21 Raider Production Expansion: What We Know TheDefenseWatch.com. Orbit Space Technologies expects investments in new manufacturing capacity to translate into higher B-21 Raider production later this decade, with much of the facility expansion work extending through 2028."
       },
       "summary": {
-        "headline": "Orbit Space Technologies is a B priority account, led by a sourced relevant hiring signal.",
-        "body": "Orbit Space Technologies Aeronautics Systems opened hiring for a Manager of Global Supply Chain at its Iuka Center of Excellence in Iuka, Mississippi, overseeing procurement-to-delivery execution across aerospace structures programs. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
+        "headline": "Orbit Space Technologies is a B priority account, led by a sourced relevant news signal.",
+        "body": "B-21 Raider Production Expansion: What We Know TheDefenseWatch.com. Orbit Space Technologies expects investments in new manufacturing capacity to translate into higher B-21 Raider production later this decade, with much of the facility expansion work extending through 2028. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Manufacturing and production operations",
+          "confidence": "High",
+          "date": "October 24, 2026",
+          "summary": "B-21 Raider Production Expansion: What We Know TheDefenseWatch.com. Orbit Space Technologies expects investments in new manufacturing capacity to translate into higher B-21 Raider production later this decade, with much of the facility expansion work extending through 2028.",
+          "implication": null,
+          "source_label": "thedefensewatch.com",
+          "source_url": "https://thedefensewatch.com/aerospace-aviadvanced-alloyon/b-21-raider-production-expansion-2/",
+          "first_seen_date": "2026-10-24"
+        },
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "SEC Form 10-Q filing",
+          "confidence": "High",
+          "date": "October 20, 2026",
+          "summary": "Orbit Space Technologies filed Form 10-Q with the SEC on 2026-10-20 covering material corporate, operational, or financial disclosures.",
+          "implication": null,
+          "source_label": "SEC 10-Q",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000038/noc-20260930.htm",
+          "first_seen_date": "2026-10-20"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -2420,20 +2552,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
         "new_signals": 2,
-        "latest_signal_date": "October 9, 2026",
+        "latest_signal_date": "October 24, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "2 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
-          "title": "Validate the relevant hiring opportunity",
-          "rationale": "Orbit Space Technologies Aeronautics Systems opened hiring for a Manager of Global Supply Chain at its Iuka Center of Excellence in Iuka, Mississippi, overseeing procurement-to-delivery execution across aerospace structures programs.",
+          "title": "Validate the relevant news opportunity",
+          "rationale": "B-21 Raider Production Expansion: What We Know TheDefenseWatch.com. Orbit Space Technologies expects investments in new manufacturing capacity to translate into higher B-21 Raider production later this decade, with much of the facility expansion work extending through 2028.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -2474,15 +2606,27 @@
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Stellar Propulsion Dynamics is currently B - Warm / Monitor. The strongest cited reason is: Vector Tactical Communications received a $250 million follow-on contract from Vanguard Systems to produce Guided Multiple Launch Rocket System (GMLRS) propulsion units at record volume inside its new 60,000-square-foot automated Arsenal of Freedom facility in East Camden, Arkansas."
+        "plain_language": "Stellar Propulsion Dynamics is currently B - Warm / Monitor. The strongest cited reason is: Stellar Propulsion Dynamics filed Form 8-K with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures."
       },
       "summary": {
         "headline": "Stellar Propulsion Dynamics is a B priority account, led by a sourced relevant news signal.",
-        "body": "Vector Tactical Communications received a $250 million follow-on contract from Vanguard Systems to produce Guided Multiple Launch Rocket System (GMLRS) propulsion units at record volume inside its new 60,000-square-foot automated Arsenal of Freedom facility in East Camden, Arkansas. Vector Tactical Communications's missile solutions business (incorporating Stellar Propulsion Dynamics assets) is explicitly named as the beneficiary of a $1B Pentagon-funded expansion of solid rocket motor production capacity.",
+        "body": "Stellar Propulsion Dynamics filed Form 8-K with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures. Vector Tactical Communications's missile solutions business (incorporating Stellar Propulsion Dynamics assets) is explicitly named as the beneficiary of a $1B Pentagon-funded expansion of solid rocket motor production capacity.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "SEC Form 8-K filing",
+          "confidence": "High",
+          "date": "October 22, 2026",
+          "summary": "Stellar Propulsion Dynamics filed Form 8-K with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures.",
+          "implication": null,
+          "source_label": "SEC 8-K",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000074/hrs-20261021.htm",
+          "first_seen_date": "2026-10-22"
+        },
         {
           "type": "Relevant news",
           "kind": "Relevant news",
@@ -2748,20 +2892,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 2,
-        "latest_signal_date": "October 12, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 22, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant news opportunity",
-          "rationale": "Vector Tactical Communications received a $250 million follow-on contract from Vanguard Systems to produce Guided Multiple Launch Rocket System (GMLRS) propulsion units at record volume inside its new 60,000-square-foot automated Arsenal of Freedom facility in East Camden, Arkansas.",
+          "rationale": "Stellar Propulsion Dynamics filed Form 8-K with the SEC on 2026-10-22 covering material corporate, operational, or financial disclosures.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -2795,22 +2939,34 @@
         "description_source": "https://www.sovereignpower-demo.com/~/media/Files/R/sovereign-power/documents/annual-report/2025/strategic-report-2024.pdf"
       },
       "score": {
-        "priority": 62.7,
+        "priority": 63.2,
         "tier": "B - Warm / Monitor",
         "fit": 44.4,
-        "timing": 52.4,
+        "timing": 53.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Sovereign Power Systems is currently B - Warm / Monitor. The strongest cited reason is: Yoshikazu Iida joined Sovereign Power Power Systems (sovereign power) as Manager of Relocation, 2nd Source and Obsolescence Management, bringing 25 years of procurement and supplier development experience to lead dual-sourcing and supply chain resilience initiatives."
+        "plain_language": "Sovereign Power Systems is currently B - Warm / Monitor. The strongest cited reason is: Riviera - News Content Hub - Regional focus: US owners expand tugboat fleets to handle larger ships enter ports. At 19.5 m, with a beam of 7.3 m and hull depth of 3.3 m, each tug is powered by two Sovereign Power Power Systems sovereign power 4000 series V8 diesel engines, rated for US EPA Tier 4 requirements, with a bollard pull of."
       },
       "summary": {
-        "headline": "Sovereign Power Systems is a B priority account, led by a sourced people movement signal.",
-        "body": "Yoshikazu Iida joined Sovereign Power Power Systems (sovereign power) as Manager of Relocation, 2nd Source and Obsolescence Management, bringing 25 years of procurement and supplier development experience to lead dual-sourcing and supply chain resilience initiatives. Sovereign Power Power Systems' positive annual results are attributed to defense industry and data center demand growth, tying the company directly to sector-level tailwinds.",
+        "headline": "Sovereign Power Systems is a B priority account, led by a sourced relevant news signal.",
+        "body": "Riviera - News Content Hub - Regional focus: US owners expand tugboat fleets to handle larger ships enter ports. At 19.5 m, with a beam of 7.3 m and hull depth of 3.3 m, each tug is powered by two Sovereign Power Power Systems sovereign power 4000 series V8 diesel engines, rated for US EPA Tier 4 requirements, with a bollard pull of. Sovereign Power Power Systems' positive annual results are attributed to defense industry and data center demand growth, tying the company directly to sector-level tailwinds.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Account operational and market signal",
+          "confidence": "High",
+          "date": "October 26, 2026",
+          "summary": "Riviera - News Content Hub - Regional focus: US owners expand tugboat fleets to handle larger ships enter ports. At 19.5 m, with a beam of 7.3 m and hull depth of 3.3 m, each tug is powered by two Sovereign Power Power Systems sovereign power 4000 series V8 diesel engines, rated for US EPA Tier 4 requirements, with a bollard pull of.",
+          "implication": null,
+          "source_label": "rivieramm.com",
+          "source_url": "https://www.rivieramm.com/news-content-hub/regional-focus-us-owners-expand-tugboat-fleets-to-handle-larger-ships-enter-ports-90354",
+          "first_seen_date": "2026-10-26"
+        },
         {
           "type": "People movement",
           "kind": "People movement",
@@ -3028,20 +3184,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
         "new_signals": 1,
-        "latest_signal_date": "October 1, 2026",
+        "latest_signal_date": "October 26, 2026",
         "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
-          "title": "Validate the people movement opportunity",
-          "rationale": "Yoshikazu Iida joined Sovereign Power Power Systems (sovereign power) as Manager of Relocation, 2nd Source and Obsolescence Management, bringing 25 years of procurement and supplier development experience to lead dual-sourcing and supply chain resilience initiatives.",
+          "title": "Validate the relevant news opportunity",
+          "rationale": "Riviera - News Content Hub - Regional focus: US owners expand tugboat fleets to handle larger ships enter ports. At 19.5 m, with a beam of 7.3 m and hull depth of 3.3 m, each tug is powered by two Sovereign Power Power Systems sovereign power 4000 series V8 diesel engines, rated for US EPA Tier 4 requirements, with a bollard pull of.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -3082,15 +3238,27 @@
         "relationship_multiplier": 1.6,
         "relationship_level": "Relationship level 3 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Advanced Alloy Technologies is currently A - Act Now. The strongest cited reason is: Advanced Alloy Technologies raised its full-year adjusted EBITDA and free cash flow guidance on the back of record aerospace and defense order backlog and expanding specialty materials margins across U.S. titanium and alloy operations."
+        "plain_language": "Advanced Alloy Technologies is currently A - Act Now. The strongest cited reason is: Advanced Alloy Technologies Inc. (Advanced Alloy Technologies): Building Momentum with Record Backlog and Aerospace Expansion. (Advanced Alloy Technologies) stands out with a record backlog and multi-year supply agreements in aerospace and defense, providing clear revenue visibility for years ahead."
       },
       "summary": {
         "headline": "Advanced Alloy Technologies is an A priority account, led by a sourced relevant news signal.",
-        "body": "Advanced Alloy Technologies raised its full-year adjusted EBITDA and free cash flow guidance on the back of record aerospace and defense order backlog and expanding specialty materials margins across U.S. titanium and alloy operations. Advanced Alloy Technologies Q4 2025 presentation explicitly cites aerospace & defense sector growth as powering the company's margin expansion, naming Advanced Alloy Technologies as a direct beneficiary of the sector tailwind.",
+        "body": "Advanced Alloy Technologies Inc. (Advanced Alloy Technologies): Building Momentum with Record Backlog and Aerospace Expansion. (Advanced Alloy Technologies) stands out with a record backlog and multi-year supply agreements in aerospace and defense, providing clear revenue visibility for years ahead. Advanced Alloy Technologies Q4 2025 presentation explicitly cites aerospace & defense sector growth as powering the company's margin expansion, naming Advanced Alloy Technologies as a direct beneficiary of the sector tailwind.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Manufacturing and production operations",
+          "confidence": "High",
+          "date": "October 23, 2026",
+          "summary": "Advanced Alloy Technologies Inc. (Advanced Alloy Technologies): Building Momentum with Record Backlog and Aerospace Expansion. (Advanced Alloy Technologies) stands out with a record backlog and multi-year supply agreements in aerospace and defense, providing clear revenue visibility for years ahead.",
+          "implication": null,
+          "source_label": "tickeron.com",
+          "source_url": "https://tickeron.com/blogs/advanced-alloy-inc-advanced-alloy-building-momentum-with-record-backlog-and-aerospace-expansion-20905/",
+          "first_seen_date": "2026-10-23"
+        },
         {
           "type": "Relevant news",
           "kind": "Relevant news",
@@ -3368,20 +3536,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 2,
-        "latest_signal_date": "October 8, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 23, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant news opportunity",
-          "rationale": "Advanced Alloy Technologies raised its full-year adjusted EBITDA and free cash flow guidance on the back of record aerospace and defense order backlog and expanding specialty materials margins across U.S. titanium and alloy operations.",
+          "rationale": "Advanced Alloy Technologies Inc. (Advanced Alloy Technologies): Building Momentum with Record Backlog and Aerospace Expansion. (Advanced Alloy Technologies) stands out with a record backlog and multi-year supply agreements in aerospace and defense, providing clear revenue visibility for years ahead.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -3664,14 +3832,14 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 2,
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 0,
         "latest_signal_date": "October 6, 2026",
-        "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "status": "No new signals this cycle",
+        "summary": "Checked in the October 14 to October 28, 2026 refresh; no new signals for this account"
       },
       "sales_plays": [
         {
@@ -3718,15 +3886,27 @@
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Velocity Mobility Systems is currently A - Act Now. The strongest cited reason is: Velocity Mobility Systems is recruiting a Strategic Supplier Development (SSD) Group Manager for the Americas based in Hornell, New York, to oversee supplier performance, industrial audits, and manufacturing ramp-up across North American rail vehicle contracts."
+        "plain_language": "Velocity Mobility Systems is currently A - Act Now. The strongest cited reason is: Commodity Buyer Job Details Velocity Mobility Systems Date: 21 Oct 2026 Location: Baltimore, MD, US Company: Velocity Mobility Systems Req ID:530460 Commodity Buyer in Baltimore, MD At Velocity Mobility Systems, we build what millions depend on daily - rail transportation systems that can't afford to fail."
       },
       "summary": {
         "headline": "Velocity Mobility Systems is an A priority account, led by a sourced relevant hiring signal.",
-        "body": "Velocity Mobility Systems is recruiting a Strategic Supplier Development (SSD) Group Manager for the Americas based in Hornell, New York, to oversee supplier performance, industrial audits, and manufacturing ramp-up across North American rail vehicle contracts. Velocity Mobility Systems won an \u20ac800m AMECA locomotive order, tied to broader sector demand for locomotive equipment, indicating the company is directly benefiting from segment order growth.",
+        "body": "Commodity Buyer Job Details Velocity Mobility Systems Date: 21 Oct 2026 Location: Baltimore, MD, US Company: Velocity Mobility Systems Req ID:530460 Commodity Buyer in Baltimore, MD At Velocity Mobility Systems, we build what millions depend on daily - rail transportation systems that can't afford to fail. Velocity Mobility Systems won an \u20ac800m AMECA locomotive order, tied to broader sector demand for locomotive equipment, indicating the company is directly benefiting from segment order growth.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant hiring",
+          "kind": "Relevant hiring",
+          "title": "Operations, engineering, or supply-chain hiring",
+          "confidence": "High",
+          "date": "October 21, 2026",
+          "summary": "Commodity Buyer Job Details Velocity Mobility Systems Date: 21 Oct 2026 Location: Baltimore, MD, US Company: Velocity Mobility Systems Req ID:530460 Commodity Buyer in Baltimore, MD At Velocity Mobility Systems, we build what millions depend on daily - rail transportation systems that can't afford to fail.",
+          "implication": null,
+          "source_label": "Velocity Mobility Systems careers",
+          "source_url": "https://jobsearch.velocitymobility-demo.com/job/Baltimore-Commodity-Buyer-MD-21201/1440173033/",
+          "first_seen_date": "2026-10-21"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -3926,20 +4106,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 0,
-        "latest_signal_date": "September 24, 2026",
-        "status": "No new signals this cycle",
-        "summary": "Checked in the September 30 to October 14, 2026 refresh; no new signals for this account"
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 21, 2026",
+        "status": "Updated this cycle",
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant hiring opportunity",
-          "rationale": "Velocity Mobility Systems is recruiting a Strategic Supplier Development (SSD) Group Manager for the Americas based in Hornell, New York, to oversee supplier performance, industrial audits, and manufacturing ramp-up across North American rail vehicle contracts.",
+          "rationale": "Commodity Buyer Job Details Velocity Mobility Systems Date: 21 Oct 2026 Location: Baltimore, MD, US Company: Velocity Mobility Systems Req ID:530460 Commodity Buyer in Baltimore, MD At Velocity Mobility Systems, we build what millions depend on daily - rail transportation systems that can't afford to fail.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -3973,17 +4153,17 @@
         "description_source": "https://www.valorflight-demo.com/company"
       },
       "score": {
-        "priority": 83.7,
-        "tier": "A - Act Now",
+        "priority": 73.7,
+        "tier": "B - Warm / Monitor",
         "fit": 77.8,
-        "timing": 53.3,
+        "timing": 41.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Valor Flight Technologies is currently A - Act Now. The strongest cited reason is: Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing."
+        "plain_language": "Valor Flight Technologies is currently B - Warm / Monitor. The strongest cited reason is: Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing."
       },
       "summary": {
-        "headline": "Valor Flight Technologies is an A priority account, led by a sourced relevant news signal.",
+        "headline": "Valor Flight Technologies is a B priority account, led by a sourced relevant news signal.",
         "body": "Valor Flight Technologies Textron completed the first nacelle structures for its MV-75 Cheyenne FLRAA test aircraft and delivered them to its Amarillo Assembly Center in Texas for wing integration alongside initial gearbox system testing. The House Armed Services Committee's FY'27 NDAA draft adds funding for Army rotorcraft, directly benefiting helicopter manufacturers like Valor Flight Technologies through funded sector expansion.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
@@ -4186,14 +4366,14 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 1,
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 0,
         "latest_signal_date": "October 14, 2026",
-        "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "status": "No new signals this cycle",
+        "summary": "Checked in the October 14 to October 28, 2026 refresh; no new signals for this account"
       },
       "sales_plays": [
         {
@@ -4240,15 +4420,27 @@
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Titan Industrial Equipment is currently B - Warm / Monitor. The strongest cited reason is: Titan Industrial Equipment is recruiting a Senior Program Manager and a New Source Introduction Program Manager for its new Sanford, North Carolina advanced manufacturing campus, leading procurement, supplier onboarding, and automated production workstreams."
+        "plain_language": "Titan Industrial Equipment is currently B - Warm / Monitor. The strongest cited reason is: 2027 Leadership & Technical Development Program (LTDP) - Procurement, N. Little Rock, Arkansas, United States of America / East Peoria, Illinois, United States of America / Morton, Illinois, United States of America / Mossville, Illinois, United States of America / Peoria, Illinois, United States of America / Seguin."
       },
       "summary": {
         "headline": "Titan Industrial Equipment is a B priority account, led by a sourced relevant hiring signal.",
-        "body": "Titan Industrial Equipment is recruiting a Senior Program Manager and a New Source Introduction Program Manager for its new Sanford, North Carolina advanced manufacturing campus, leading procurement, supplier onboarding, and automated production workstreams. Sector-level 2026 outlook coverage describes explosive demand for construction equipment driven by data center and energy infrastructure buildouts, a macro tailwind clearly covering Titan Industrial Equipment's core segment.",
+        "body": "2027 Leadership & Technical Development Program (LTDP) - Procurement, N. Little Rock, Arkansas, United States of America / East Peoria, Illinois, United States of America / Morton, Illinois, United States of America / Mossville, Illinois, United States of America / Peoria, Illinois, United States of America / Seguin. Sector-level 2026 outlook coverage describes explosive demand for construction equipment driven by data center and energy infrastructure buildouts, a macro tailwind clearly covering Titan Industrial Equipment's core segment.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant hiring",
+          "kind": "Relevant hiring",
+          "title": "Operations, engineering, or supply-chain hiring",
+          "confidence": "High",
+          "date": "October 16, 2026",
+          "summary": "2027 Leadership & Technical Development Program (LTDP) - Procurement, N. Little Rock, Arkansas, United States of America / East Peoria, Illinois, United States of America / Morton, Illinois, United States of America / Mossville, Illinois, United States of America / Peoria, Illinois, United States of America / Seguin.",
+          "implication": null,
+          "source_label": "Titan Industrial Equipment careers",
+          "source_url": "https://careers.titanindustrial-demo.com/en/jobs/r0000380148/2027-leadership-technical-development-program-ltdp-procurement/",
+          "first_seen_date": "2026-10-16"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -4529,20 +4721,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 2,
-        "latest_signal_date": "October 5, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 1,
+        "latest_signal_date": "October 16, 2026",
         "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant hiring opportunity",
-          "rationale": "Titan Industrial Equipment is recruiting a Senior Program Manager and a New Source Introduction Program Manager for its new Sanford, North Carolina advanced manufacturing campus, leading procurement, supplier onboarding, and automated production workstreams.",
+          "rationale": "2027 Leadership & Technical Development Program (LTDP) - Procurement, N. Little Rock, Arkansas, United States of America / East Peoria, Illinois, United States of America / Morton, Illinois, United States of America / Mossville, Illinois, United States of America / Peoria, Illinois, United States of America / Seguin.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -4576,22 +4768,58 @@
         "description_source": "https://www.astralavionics-demo.com/who-we-are"
       },
       "score": {
-        "priority": 69.9,
+        "priority": 67.0,
         "tier": "B - Warm / Monitor",
         "fit": 66.7,
-        "timing": 73.3,
+        "timing": 67.3,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Astral Avionics Solutions is currently B - Warm / Monitor. The strongest cited reason is: Astral Avionics Solutions announced a multimillion-dollar, 14,000-square-foot expansion of its West Des Moines, Iowa manufacturing facility to increase additive manufacturing, original equipment production, and MRO capacity for aircraft fuel distribution systems."
+        "plain_language": "Astral Avionics Solutions is currently B - Warm / Monitor. The strongest cited reason is: Air Europa extends exclusive Boeing 787 nacelle maintenance agreement with Horizon Aero's Astral Avionics Solutions. 28, 2026 /PRNewswire/ -- Air Europa has extended its exclusive Boeing 787 nacelle maintenance agreement with Astral Avionics Solutions, an Horizon Aero (NYSE: Horizon Aero) business, through 2037."
       },
       "summary": {
         "headline": "Astral Avionics Solutions is a B priority account, led by a sourced relevant news signal.",
-        "body": "Astral Avionics Solutions announced a multimillion-dollar, 14,000-square-foot expansion of its West Des Moines, Iowa manufacturing facility to increase additive manufacturing, original equipment production, and MRO capacity for aircraft fuel distribution systems. Astronics reported broad-based sales growth across its aerospace segments consistent with sector-wide aerospace demand recovery, tying company performance to macro tailwinds in commercial and defense aerospace.",
+        "body": "Air Europa extends exclusive Boeing 787 nacelle maintenance agreement with Horizon Aero's Astral Avionics Solutions. 28, 2026 /PRNewswire/ -- Air Europa has extended its exclusive Boeing 787 nacelle maintenance agreement with Astral Avionics Solutions, an Horizon Aero (NYSE: Horizon Aero) business, through 2037. Astronics reported broad-based sales growth across its aerospace segments consistent with sector-wide aerospace demand recovery, tying company performance to macro tailwinds in commercial and defense aerospace.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Account operational and market signal",
+          "confidence": "High",
+          "date": "October 28, 2026",
+          "summary": "Air Europa extends exclusive Boeing 787 nacelle maintenance agreement with Horizon Aero's Astral Avionics Solutions. 28, 2026 /PRNewswire/ -- Air Europa has extended its exclusive Boeing 787 nacelle maintenance agreement with Astral Avionics Solutions, an Horizon Aero (NYSE: Horizon Aero) business, through 2037.",
+          "implication": null,
+          "source_label": "PR Newswire",
+          "source_url": "https://www.prnewswire.com/news-releases/air-europa-extends-exclusive-boeing-787-nacelle-maintenance-agreement-with-horizonaeros-astral-avionics-solutions-302919617.html",
+          "first_seen_date": "2026-10-28"
+        },
+        {
+          "type": "Relevant hiring",
+          "kind": "Relevant hiring",
+          "title": "Operations, engineering, or supply-chain hiring",
+          "confidence": "High",
+          "date": "October 22, 2026",
+          "summary": "Principal Specialist, Procurement (Onsite) at Globalhr. Astral Avionics Solutions is a leader in technologically advanced, intelligent solutions that help redefine the aerospace and defense industry.",
+          "implication": null,
+          "source_label": "Astral Avionics Solutions careers",
+          "source_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_horizonaero_Ext_Gateway/job/Principal-Specialist--Procurement--Onsite-_01883245-1",
+          "first_seen_date": "2026-10-22"
+        },
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Contract award and program execution",
+          "confidence": "High",
+          "date": "October 19, 2026",
+          "summary": "Astral Avionics Solutions Troy facility wins $10.4M C-5 contract - Dayton Business Journal Troy Horizon Aerospace & Defense subsidiary wins third contract of 2026 to work on Air Force's largest plane expand A U.S.",
+          "implication": null,
+          "source_label": "bizjournals.com",
+          "source_url": "https://www.bizjournals.com/dayton/news/2026/10/19/astral-avionics-solutions-troy-c5-contract-heat-sink-10m.html",
+          "first_seen_date": "2026-10-19"
+        },
         {
           "type": "Relevant news",
           "kind": "Relevant news",
@@ -4827,20 +5055,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 1,
-        "latest_signal_date": "October 12, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 3,
+        "latest_signal_date": "October 28, 2026",
         "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "summary": "3 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant news opportunity",
-          "rationale": "Astral Avionics Solutions announced a multimillion-dollar, 14,000-square-foot expansion of its West Des Moines, Iowa manufacturing facility to increase additive manufacturing, original equipment production, and MRO capacity for aircraft fuel distribution systems.",
+          "rationale": "Air Europa extends exclusive Boeing 787 nacelle maintenance agreement with Horizon Aero's Astral Avionics Solutions. 28, 2026 /PRNewswire/ -- Air Europa has extended its exclusive Boeing 787 nacelle maintenance agreement with Astral Avionics Solutions, an Horizon Aero (NYSE: Horizon Aero) business, through 2037.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -4874,22 +5102,34 @@
         "description_source": "https://www.pinnacleengine-demo.com/company"
       },
       "score": {
-        "priority": 69.9,
+        "priority": 73.4,
         "tier": "B - Warm / Monitor",
         "fit": 66.7,
-        "timing": 73.3,
+        "timing": 80.7,
         "relationship_multiplier": 1.0,
         "relationship_level": "Unknown",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Pinnacle Engine Technologies is currently B - Warm / Monitor. The strongest cited reason is: Pinnacle Engine is recruiting a Senior Procurement and Supply Continuity Specialist in Columbus, Indiana, to manage vendor performance, supply risk mitigation, and purchasing continuity across engine and power systems manufacturing."
+        "plain_language": "Pinnacle Engine Technologies is currently B - Warm / Monitor. The strongest cited reason is: Pinnacle Engine Selects Stargate Hydrogen For HyStat Support. supplier for the legacy HyStat alkaline electrolyser stack ... Under the agreement, the company will manufacture and deliver replacement stacks and related services for an installed base comprising more than 400 systems and over 1,000 stacks worldwide."
       },
       "summary": {
-        "headline": "Pinnacle Engine Technologies is a B priority account, led by a sourced relevant hiring signal.",
-        "body": "Pinnacle Engine is recruiting a Senior Procurement and Supply Continuity Specialist in Columbus, Indiana, to manage vendor performance, supply risk mitigation, and purchasing continuity across engine and power systems manufacturing. Article explicitly names INNIO as a direct beneficiary of the data center power crunch, with data centers buying hundreds of reciprocating engines to bypass grid constraints.",
+        "headline": "Pinnacle Engine Technologies is a B priority account, led by a sourced relevant news signal.",
+        "body": "Pinnacle Engine Selects Stargate Hydrogen For HyStat Support. supplier for the legacy HyStat alkaline electrolyser stack ... Under the agreement, the company will manufacture and deliver replacement stacks and related services for an installed base comprising more than 400 systems and over 1,000 stacks worldwide. Article explicitly names INNIO as a direct beneficiary of the data center power crunch, with data centers buying hundreds of reciprocating engines to bypass grid constraints.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant news",
+          "kind": "Relevant news",
+          "title": "Account operational and market signal",
+          "confidence": "High",
+          "date": "October 19, 2026",
+          "summary": "Pinnacle Engine Selects Stargate Hydrogen For HyStat Support. supplier for the legacy HyStat alkaline electrolyser stack ... Under the agreement, the company will manufacture and deliver replacement stacks and related services for an installed base comprising more than 400 systems and over 1,000 stacks worldwide.",
+          "implication": null,
+          "source_label": "decarbonfuse.com",
+          "source_url": "https://decarbonfuse.com/posts/pinnacle-engine-selects-stargate-hydrogen-for-hystat-support",
+          "first_seen_date": "2026-10-19"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -5135,20 +5375,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
         "new_signals": 1,
-        "latest_signal_date": "October 10, 2026",
+        "latest_signal_date": "October 19, 2026",
         "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
-          "title": "Validate the relevant hiring opportunity",
-          "rationale": "Pinnacle Engine is recruiting a Senior Procurement and Supply Continuity Specialist in Columbus, Indiana, to manage vendor performance, supply risk mitigation, and purchasing continuity across engine and power systems manufacturing.",
+          "title": "Validate the relevant news opportunity",
+          "rationale": "Pinnacle Engine Selects Stargate Hydrogen For HyStat Support. supplier for the legacy HyStat alkaline electrolyser stack ... Under the agreement, the company will manufacture and deliver replacement stacks and related services for an installed base comprising more than 400 systems and over 1,000 stacks worldwide.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -5182,22 +5422,34 @@
         "description_source": "https://www.zenithtransit-demo.com/our-company/"
       },
       "score": {
-        "priority": 55.3,
+        "priority": 52.6,
         "tier": "B - Warm / Monitor",
         "fit": 44.4,
-        "timing": 68.9,
+        "timing": 62.2,
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Zenith Transit Systems is currently B - Warm / Monitor. The strongest cited reason is: Zenith Transit Systems opened hiring for a Direct Procurement Category Manager at its Hagerstown, Maryland railcar manufacturing facility to lead strategic sourcing and supplier performance across North American transit vehicle programs."
+        "plain_language": "Zenith Transit Systems is currently B - Warm / Monitor. The strongest cited reason is: Local Procurement Buyer. Profession (Job Category): Customer Service & Contact Center Operations Job Schedule: Full time Work Arrangement: Onsite About Us A career at Zenith Transit Systems will help create a legacy."
       },
       "summary": {
         "headline": "Zenith Transit Systems is a B priority account, led by a sourced relevant hiring signal.",
-        "body": "Zenith Transit Systems opened hiring for a Direct Procurement Category Manager at its Hagerstown, Maryland railcar manufacturing facility to lead strategic sourcing and supplier performance across North American transit vehicle programs. Velocity Mobility Systems won an \u20ac800m AMECA locomotive order, tied to broader sector demand for locomotive equipment, indicating the company is directly benefiting from segment order growth.",
+        "body": "Local Procurement Buyer. Profession (Job Category): Customer Service & Contact Center Operations Job Schedule: Full time Work Arrangement: Onsite About Us A career at Zenith Transit Systems will help create a legacy. Velocity Mobility Systems won an \u20ac800m AMECA locomotive order, tied to broader sector demand for locomotive equipment, indicating the company is directly benefiting from segment order growth.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "Relevant hiring",
+          "kind": "Relevant hiring",
+          "title": "Operations, engineering, or supply-chain hiring",
+          "confidence": "High",
+          "date": "October 23, 2026",
+          "summary": "Local Procurement Buyer. Profession (Job Category): Customer Service & Contact Center Operations Job Schedule: Full time Work Arrangement: Onsite About Us A career at Zenith Transit Systems will help create a legacy.",
+          "implication": null,
+          "source_label": "Zenith Transit Systems careers",
+          "source_url": "https://zenithtransit-jobs-demo.com/en-US/zenith-transit/job/Local-Procurement-Buyer_R0149587",
+          "first_seen_date": "2026-10-23"
+        },
         {
           "type": "Relevant hiring",
           "kind": "Relevant hiring",
@@ -5397,20 +5649,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
         "new_signals": 1,
-        "latest_signal_date": "October 6, 2026",
+        "latest_signal_date": "October 23, 2026",
         "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "summary": "1 new signal added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
           "title": "Validate the relevant hiring opportunity",
-          "rationale": "Zenith Transit Systems opened hiring for a Direct Procurement Category Manager at its Hagerstown, Maryland railcar manufacturing facility to lead strategic sourcing and supplier performance across North American transit vehicle programs.",
+          "rationale": "Local Procurement Buyer. Profession (Job Category): Customer Service & Contact Center Operations Job Schedule: Full time Work Arrangement: Onsite About Us A career at Zenith Transit Systems will help create a legacy.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -5451,15 +5703,39 @@
         "relationship_multiplier": 1.0,
         "relationship_level": "Relationship level 1 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
-        "plain_language": "Vector Tactical Communications is currently A - Act Now. The strongest cited reason is: Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions."
+        "plain_language": "Vector Tactical Communications is currently A - Act Now. The strongest cited reason is: Vector Tactical Communications Expands Missile Propulsion Capacity Govly. Vector Tactical Communications Expands Missile Propulsion Capacity October 23, 2026 Advanced Alloy Technologies Chair, President and CEO Kimberly Fields joined Vector Tactical Communications Technologies\u2019 board as the company scales missile-propulsion manufacturing."
       },
       "summary": {
-        "headline": "Vector Tactical Communications is an A priority account, led by a sourced relevant news signal.",
-        "body": "Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
+        "headline": "Vector Tactical Communications is an A priority account, led by a sourced people movement signal.",
+        "body": "Vector Tactical Communications Expands Missile Propulsion Capacity Govly. Vector Tactical Communications Expands Missile Propulsion Capacity October 23, 2026 Advanced Alloy Technologies Chair, President and CEO Kimberly Fields joined Vector Tactical Communications Technologies\u2019 board as the company scales missile-propulsion manufacturing. The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business.",
         "recommended_action": "Use the strongest current signal to validate a facility-level manufacturing or sourcing need.",
         "action_detail": "Confirm the affected location, program, decision owner, and Apex Industrial qualification before proposing capacity or supplier support."
       },
       "signals": [
+        {
+          "type": "People movement",
+          "kind": "People movement",
+          "title": "Leadership and buying-center update",
+          "confidence": "High",
+          "date": "October 23, 2026",
+          "summary": "Vector Tactical Communications Expands Missile Propulsion Capacity Govly. Vector Tactical Communications Expands Missile Propulsion Capacity October 23, 2026 Advanced Alloy Technologies Chair, President and CEO Kimberly Fields joined Vector Tactical Communications Technologies\u2019 board as the company scales missile-propulsion manufacturing.",
+          "implication": null,
+          "source_label": "app.govly.com",
+          "source_url": "https://app.govly.com/public/signals/230691",
+          "first_seen_date": "2026-10-23"
+        },
+        {
+          "type": "Relevant hiring",
+          "kind": "Relevant hiring",
+          "title": "Operations, engineering, or supply-chain hiring",
+          "confidence": "High",
+          "date": "October 21, 2026",
+          "summary": "Senior Specialist, Procurement at Vector Tactical Communications Technologies. Senior Specialist, Procurement Salt Lake City, Utah Vector Tactical Communications is dedicated to recruiting and developing high-performing talent who are passionate about what they do.",
+          "implication": null,
+          "source_label": "Vector Tactical Communications careers",
+          "source_url": "https://careers.vectortactical-demo.com/en/job/salt-lake-city/senior-specialist-procurement/4832/102258067472",
+          "first_seen_date": "2026-10-21"
+        },
         {
           "type": "Relevant news",
           "kind": "Relevant news",
@@ -5753,20 +6029,20 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 4,
-        "latest_signal_date": "October 13, 2026",
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 2,
+        "latest_signal_date": "October 23, 2026",
         "status": "Updated this cycle",
-        "summary": "4 new signals added in the September 30 to October 14, 2026 refresh"
+        "summary": "2 new signals added in the October 14 to October 28, 2026 refresh"
       },
       "sales_plays": [
         {
           "label": "Play 01 - Current signal",
-          "title": "Validate the relevant news opportunity",
-          "rationale": "Vector Tactical Communications Technologies and Divergent Technologies signed a teaming agreement to apply digital additive manufacturing processes to scale production of Vector Tactical Communications' Wolf Pack family of affordable mass munitions.",
+          "title": "Validate the people movement opportunity",
+          "rationale": "Vector Tactical Communications Expands Missile Propulsion Capacity Govly. Vector Tactical Communications Expands Missile Propulsion Capacity October 23, 2026 Advanced Alloy Technologies Chair, President and CEO Kimberly Fields joined Vector Tactical Communications Technologies\u2019 board as the company scales missile-propulsion manufacturing.",
           "next_step": "Use the cited event as a discovery opener. Confirm the affected program, facility, timing, and sourcing impact before presenting an Apex Industrial solution."
         },
         {
@@ -5800,10 +6076,10 @@
         "description_source": "https://www.oriontransit-demo.com/us/en/company.html"
       },
       "score": {
-        "priority": 64.2,
+        "priority": 61.5,
         "tier": "B - Warm / Monitor",
         "fit": 33.3,
-        "timing": 73.3,
+        "timing": 67.3,
         "relationship_multiplier": 1.3,
         "relationship_level": "Relationship level 2 of 3",
         "explanation": "The score combines account fit, dated public timing signals, and Apex Industrial's relationship assessment.",
@@ -6009,14 +6285,14 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 1,
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 0,
         "latest_signal_date": "October 14, 2026",
-        "status": "Updated this cycle",
-        "summary": "1 new signal added in the September 30 to October 14, 2026 refresh"
+        "status": "No new signals this cycle",
+        "summary": "Checked in the October 14 to October 28, 2026 refresh; no new signals for this account"
       },
       "sales_plays": [
         {
@@ -6329,14 +6605,14 @@
         "score_note": "The priority score is a sequencing aid, not a sales forecast. Scored October 2026 from the Phase 1 baseline and biweekly signal refresh; generated October 28, 2026."
       },
       "refresh": {
-        "period_start": "2026-09-30",
-        "period_end": "2026-10-14",
-        "period_label": "September 30 to October 14, 2026",
-        "last_updated": "October 14, 2026",
-        "new_signals": 2,
+        "period_start": "2026-10-14",
+        "period_end": "2026-10-28",
+        "period_label": "October 14 to October 28, 2026",
+        "last_updated": "October 28, 2026",
+        "new_signals": 0,
         "latest_signal_date": "October 9, 2026",
-        "status": "Updated this cycle",
-        "summary": "2 new signals added in the September 30 to October 14, 2026 refresh"
+        "status": "No new signals this cycle",
+        "summary": "Checked in the October 14 to October 28, 2026 refresh; no new signals for this account"
       },
       "sales_plays": [
         {
